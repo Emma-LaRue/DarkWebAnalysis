@@ -1,0 +1,35 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Image files
+*.png
+
+# Database 
+*.sql
+
+#pyenv
+.python_version
+
+# Untitled files
+Untitled*
+
+# .csv files
+*.csv
+
+# Text files
+*.txt
+*.zip
+
+# Latex files
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.gz
+*.tex
+*.bib
