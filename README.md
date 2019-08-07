@@ -27,7 +27,7 @@ REU project, summer 2019
    - dictionary of drugs
 
 ### Other folders and files:
-**ArtificialData** - contains all things related to HMM and Bayes tests
+**ArtificialData** - files related to HMM and Bayes tests with artificial timestamps
 
 **Drug Co-Occurence Data** - Indy overdose dataset, most common drug pairs
 
