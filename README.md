@@ -25,6 +25,8 @@ REU project, summer 2019
    - the dataset containing all product reviews
 2. drugLookup.py
    - dictionary of drugs
+3. BTC-USD_20100716-20190604.csv
+   - converts Bitcoin to USD depending on the day
 
 ### Other folders and files:
 **ArtificialData** - files related to HMM and Bayes tests with artificial timestamps
