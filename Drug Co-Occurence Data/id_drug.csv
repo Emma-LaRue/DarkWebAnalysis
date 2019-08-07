@@ -1,0 +1,4401 @@
+Buyer_ID,Unique_Buys
+##,"['', 'hashish', 'antidepressant', 'kratom', 'fentanyl', 'oxycodone', 'marijuana', 'opioid', 'psychedelic', 'ketamine', 'psilocybin', 'prescription', 'methamphetamine', 'uncategorizable_listing', 'benzodiazepines', 'not_drugs', 'stimulant', 'heroin', 'ecstasy', 'steroids_and_hormones', 'dmt', 'cocaine', 'erectile_dysfunction', 'inhalants', 'dissociative', 'lsd', 'opioid_treatment']"
+##,"['cocaine', 'stimulant']"
+--,"['marijuana', 'not_drugs']"
+-e,['not_drugs']
+04,['erectile_dysfunction']
+07,['oxycodone']
+0W,['not_drugs']
+0e,"['hashish', 'heroin']"
+0f,['not_drugs']
+0y,['not_drugs']
+0y,['cocaine']
+1 ,['ecstasy']
+1 ,['cocaine']
+1 ,"['methamphetamine', 'heroin']"
+1 ,"['lsd', 'cocaine', 'ecstasy']"
+1 ,['marijuana']
+10,"['benzodiazepines', 'marijuana']"
+11,"['uncategorizable_listing', 'not_drugs']"
+12,['psilocybin']
+15,['not_drugs']
+16,['ecstasy']
+18,['psilocybin']
+19,['hashish']
+1Y,"['lsd', '']"
+1c,['']
+1e,"['cocaine', 'ecstasy']"
+1i,['not_drugs']
+1l,['not_drugs']
+1n,['cocaine']
+1p,['cocaine']
+1p,['marijuana']
+1r,"['', 'marijuana']"
+1s,['marijuana']
+1s,"['methamphetamine', 'not_drugs', 'ketamine']"
+1s,['stimulant']
+1t,"['cocaine', 'psychedelic']"
+1y,['opioid_treatment']
+2 ,"['methamphetamine', 'ecstasy']"
+2 ,"['ecstasy', 'ketamine']"
+20,['opioid']
+21,['marijuana']
+22,['opioid']
+22,['marijuana']
+25,['marijuana']
+25,['benzodiazepines']
+26,['cocaine']
+28,['marijuana']
+29,"['dmt', 'not_drugs']"
+2b,['cocaine']
+2c,['marijuana']
+2e,['not_drugs']
+2g,"['methamphetamine', 'cocaine', 'marijuana', 'not_drugs']"
+2i,['not_drugs']
+2r,['marijuana']
+2s,['not_drugs']
+2s,['methamphetamine']
+2t,['not_drugs']
+30,['stimulant']
+33,['marijuana']
+33,['marijuana']
+34,['not_drugs']
+37,"['lsd', 'opioid']"
+3H,['not_drugs']
+3a,['not_drugs']
+3n,['']
+3o,['']
+3q,"['opioid', 'opioid_treatment']"
+3s,['not_drugs']
+3t,['ecstasy']
+3y,['stimulant']
+4 ,"['', 'cocaine', 'prescription']"
+4 ,['']
+4 ,['']
+40,"['', 'not_drugs']"
+42,['fentanyl']
+43,['marijuana']
+44,['']
+47,"['marijuana', 'hashish']"
+47,"['lsd', 'ecstasy']"
+47,"['cocaine', 'ecstasy']"
+49,['ecstasy']
+4D,['not_drugs']
+4a,['']
+4d,['marijuana']
+4e,['lsd']
+4m,['marijuana']
+4n,"['cocaine', 'opioid']"
+4o,['']
+4t,['marijuana']
+4v,['not_drugs']
+4y,['cocaine']
+5 ,"['methamphetamine', 'cocaine', 'ecstasy', 'benzodiazepines']"
+5 ,['stimulant']
+51,['marijuana']
+55,['marijuana']
+58,"['benzodiazepines', 'oxycodone']"
+5a,['benzodiazepines']
+5h,['ketamine']
+5n,['marijuana']
+5r,['not_drugs']
+64,['steroids_and_hormones']
+64,['not_drugs']
+64,['methamphetamine']
+65,['not_drugs']
+66,"['not_drugs', 'ketamine']"
+6G,['not_drugs']
+6d,['not_drugs']
+6q,['']
+6y,['not_drugs']
+76,['methamphetamine']
+76,['not_drugs']
+77,['cocaine']
+78,['marijuana']
+7R,['not_drugs']
+7k,['benzodiazepines']
+7m,['opioid']
+7n,['lsd']
+7x,['psilocybin']
+7y,['marijuana']
+7z,['psilocybin']
+7z,['methamphetamine']
+8-,['benzodiazepines']
+82,['stimulant']
+87,['']
+88,['marijuana']
+8d,['marijuana']
+8r,['psilocybin']
+8s,['heroin']
+8t,['hashish']
+8x,['not_drugs']
+8y,['psilocybin']
+94,['marijuana']
+96,['methamphetamine']
+9L,['not_drugs']
+9b,['not_drugs']
+9n,['not_drugs']
+9t,['not_drugs']
+9y,['not_drugs']
+A ,"['lsd', 'ecstasy']"
+A ,['marijuana']
+A ,['marijuana']
+A ,['marijuana']
+A ,"['methamphetamine', 'ecstasy']"
+A ,['marijuana']
+A ,['ecstasy']
+A ,"['ecstasy', 'ketamine', 'cocaine', 'methamphetamine', 'erectile_dysfunction']"
+A ,"['', 'ketamine', 'cocaine', 'methamphetamine', 'erectile_dysfunction']"
+A0,['ecstasy']
+A0,"['cocaine', 'not_drugs']"
+A1,['cocaine']
+A1,"['cocaine', 'hashish', 'not_drugs']"
+A1,['methamphetamine']
+A1,"['cocaine', 'marijuana', 'hashish']"
+A2,"['', 'not_drugs']"
+A2,"['methamphetamine', 'cocaine']"
+A3,"['methamphetamine', 'stimulant']"
+A3,"['', 'marijuana', 'oxycodone', 'lsd', 'stimulant']"
+A4,['marijuana']
+A4,['not_drugs']
+A5,"['psilocybin', 'cocaine']"
+A6,['not_drugs']
+A7,"['', 'not_drugs']"
+A7,"['marijuana', 'hashish', 'psilocybin', 'not_drugs', 'stimulant']"
+A7,['cocaine']
+A8,['not_drugs']
+A8,['ecstasy']
+A8,['']
+A9,['not_drugs']
+A9,"['marijuana', 'not_drugs']"
+AD,['not_drugs']
+AE,['marijuana']
+AF,['marijuana']
+AI,['not_drugs']
+AK,['marijuana']
+AL,['ecstasy']
+AN,['marijuana']
+AO,['psilocybin']
+AX,['not_drugs']
+Aa,"['hashish', 'psychedelic']"
+Aa,['not_drugs']
+Ad,['marijuana']
+Ae,"['dmt', 'not_drugs']"
+Ae,"['', 'cocaine', 'oxycodone', 'heroin']"
+Ae,['ecstasy']
+Ae,['not_drugs']
+Ae,['hashish']
+Af,['not_drugs']
+Ah,['cocaine']
+Ak,['not_drugs']
+Ak,['ecstasy']
+Al,['marijuana']
+Am,['marijuana']
+An,"['methamphetamine', 'cocaine']"
+An,"['lsd', 'psilocybin', 'ecstasy']"
+Ao,['ecstasy']
+Ao,['not_drugs']
+Ap,['not_drugs']
+Ap,['not_drugs']
+Ar,"['benzodiazepines', 'not_drugs']"
+Ar,"['', 'methamphetamine', 'cocaine', 'marijuana']"
+As,['hashish']
+As,"['', 'marijuana', 'not_drugs']"
+As,"['', 'cocaine', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+At,"['marijuana', 'not_drugs', 'heroin']"
+At,"['opioid', 'oxycodone']"
+Au,['marijuana']
+Av,['methamphetamine']
+Ax,"['psilocybin', 'cocaine']"
+Ax,['lsd']
+Ay,['not_drugs']
+Ay,"['methamphetamine', 'ketamine']"
+B ,['ecstasy']
+B ,['benzodiazepines']
+B ,"['benzodiazepines', 'ecstasy']"
+B ,"['cocaine', 'ecstasy']"
+B ,"['marijuana', 'hashish']"
+B0,"['', 'marijuana', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+B0,"['', 'not_drugs']"
+B0,['hashish']
+B0,['hashish']
+B1,['stimulant']
+B1,"['marijuana', 'ecstasy', 'psilocybin', 'oxycodone', 'lsd', 'methamphetamine', 'not_drugs', 'stimulant', 'heroin']"
+B1,"['psilocybin', 'dmt', 'not_drugs']"
+B2,['cocaine']
+B2,"['lsd', 'marijuana', 'not_drugs']"
+B2,['ketamine']
+B3,"['', 'methamphetamine', 'cocaine', 'not_drugs']"
+B3,['marijuana']
+B4,['not_drugs']
+B4,"['methamphetamine', 'cocaine', 'marijuana', 'not_drugs']"
+B5,"['fentanyl', 'marijuana']"
+B5,"['benzodiazepines', 'heroin']"
+B6,['not_drugs']
+B6,"['lsd', 'not_drugs']"
+B6,['']
+B7,"['marijuana', 'hashish', 'heroin']"
+B7,"['', 'benzodiazepines', 'not_drugs', 'ecstasy']"
+B7,['cocaine']
+B8,['benzodiazepines']
+B8,['marijuana']
+B8,"['', 'methamphetamine', 'cocaine', 'not_drugs']"
+B9,"['lsd', 'methamphetamine', 'cocaine']"
+B9,['stimulant']
+B9,"['', 'marijuana', 'not_drugs']"
+BC,"['', 'not_drugs']"
+BK,['marijuana']
+BK,['not_drugs']
+BN,['not_drugs']
+BT,['ecstasy']
+BV,"['marijuana', 'benzodiazepines']"
+BV,['marijuana']
+Ba,"['marijuana', 'erectile_dysfunction', 'not_drugs']"
+Ba,['heroin']
+Bb,"['marijuana', 'cocaine', 'ecstasy']"
+Bd,"['lsd', 'methamphetamine', 'marijuana']"
+Bd,"['psilocybin', '', 'cocaine', 'not_drugs']"
+Be,"['lsd', 'marijuana', 'not_drugs']"
+Be,"['', 'marijuana', 'ecstasy', 'hashish', 'psilocybin', 'cocaine', 'methamphetamine']"
+Bg,['marijuana']
+Bh,['cocaine']
+Bi,['not_drugs']
+Bi,"['marijuana', 'hashish']"
+Bk,"['', 'ecstasy']"
+Bk,"['marijuana', 'not_drugs']"
+Bm,"['methamphetamine', 'cocaine', 'marijuana']"
+Bn,['cocaine']
+Bn,"['cocaine', 'benzodiazepines']"
+Bo,['ecstasy']
+Bo,"['lsd', 'benzodiazepines', 'not_drugs']"
+Bo,"['marijuana', 'stimulant']"
+Bp,['not_drugs']
+Br,['hashish']
+Br,['marijuana']
+Br,['heroin']
+Br,"['', 'methamphetamine', 'cocaine', 'marijuana']"
+Br,['not_drugs']
+Bs,['psilocybin']
+Bs,"['psilocybin', 'marijuana', 'ecstasy']"
+Bs,"['methamphetamine', 'marijuana', 'not_drugs', 'benzodiazepines']"
+Bt,"['methamphetamine', 'marijuana']"
+Bt,['marijuana']
+Bt,['not_drugs']
+Bt,['not_drugs']
+Bt,['cocaine']
+Bu,"['ecstasy', 'marijuana', 'psychedelic', 'lsd', 'methamphetamine']"
+Bv,['not_drugs']
+Bw,"['cocaine', 'marijuana']"
+By,"['psilocybin', 'cocaine', 'marijuana', 'psychedelic']"
+By,"['psilocybin', 'benzodiazepines']"
+Bz,"['methamphetamine', 'cocaine', 'marijuana', 'heroin']"
+C ,['cocaine']
+C ,['methamphetamine']
+C ,['']
+C ,['cocaine']
+C ,"['', 'cocaine', 'benzodiazepines', 'psychedelic']"
+C ,['marijuana']
+C ,['ecstasy']
+C ,"['ketamine', 'cocaine', 'methamphetamine', 'benzodiazepines', 'heroin']"
+C ,['cocaine']
+C ,['cocaine']
+C ,['cocaine']
+C ,['methamphetamine']
+C0,"['lsd', 'ecstasy', 'erectile_dysfunction', 'not_drugs']"
+C0,['not_drugs']
+C1,"['lsd', 'marijuana']"
+C1,['not_drugs']
+C2,['not_drugs']
+C2,['marijuana']
+C3,['not_drugs']
+C4,['ketamine']
+C5,"['lsd', 'marijuana']"
+C5,['not_drugs']
+C6,['not_drugs']
+C6,['ecstasy']
+C7,['not_drugs']
+C8,['cocaine']
+C8,"['', 'marijuana', 'heroin']"
+C8,"['ecstasy', 'not_drugs']"
+C9,"['lsd', 'not_drugs']"
+C9,"['', 'marijuana', 'stimulant']"
+CA,['not_drugs']
+CC,['']
+CC,['not_drugs']
+CD,['psychedelic']
+CE,"['', 'not_drugs']"
+CE,['marijuana']
+CG,['not_drugs']
+CI,['marijuana']
+CN,['not_drugs']
+CR,['not_drugs']
+CW,['not_drugs']
+CZ,"['cocaine', 'not_drugs', 'heroin']"
+Ca,"['', 'ecstasy', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs']"
+Ca,"['marijuana', 'not_drugs']"
+Cb,['not_drugs']
+Cd,['benzodiazepines']
+Cd,['ecstasy']
+Ce,"['opioid_treatment', 'cocaine', 'not_drugs']"
+Ce,['benzodiazepines']
+Ce,['not_drugs']
+Cg,"['benzodiazepines', 'not_drugs']"
+Cg,"['methamphetamine', 'marijuana']"
+Cg,"['cocaine', 'benzodiazepines']"
+Ci,"['cocaine', 'not_drugs']"
+Ci,"['cocaine', 'marijuana', 'hashish', 'stimulant']"
+Cl,"['lsd', 'not_drugs']"
+Cm,"['cocaine', 'opioid']"
+Cn,"['marijuana', 'cocaine', 'oxycodone', 'lsd', 'stimulant']"
+Co,"['cocaine', 'ecstasy']"
+Co,['marijuana']
+Co,['stimulant']
+Cr,['marijuana']
+Cr,"['cocaine', 'marijuana']"
+Cs,"['marijuana', 'not_drugs']"
+Cs,"['methamphetamine', 'not_drugs', 'heroin']"
+Ct,"['lsd', 'not_drugs']"
+Ct,['marijuana']
+Cw,['methamphetamine']
+Cx,"['marijuana', 'dmt', 'ecstasy', 'ketamine']"
+Cy,['heroin']
+Cy,"['', 'not_drugs']"
+D ,['heroin']
+D ,['marijuana']
+D ,"['cocaine', 'ecstasy', 'ketamine']"
+D ,['lsd']
+D ,"['methamphetamine', 'marijuana', 'hashish']"
+D ,"['ecstasy', 'stimulant']"
+D ,"['ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'lsd', 'methamphetamine', 'erectile_dysfunction', 'stimulant']"
+D ,['cocaine']
+D ,['marijuana']
+D0,"['cocaine', 'marijuana']"
+D0,['not_drugs']
+D0,"['psilocybin', 'benzodiazepines', 'lsd']"
+D1,['not_drugs']
+D1,"['marijuana', 'not_drugs']"
+D2,['cocaine']
+D2,"['', 'marijuana', 'ketamine', 'cocaine', 'heroin']"
+D2,"['marijuana', 'opioid_treatment', 'not_drugs']"
+D3,"['lsd', '', 'not_drugs']"
+D5,"['', 'marijuana', 'ecstasy', 'benzodiazepines', 'not_drugs', 'stimulant', 'heroin']"
+D6,"['lsd', 'marijuana']"
+D6,"['', 'ecstasy', 'not_drugs']"
+D6,"['', 'ecstasy', 'ketamine']"
+D7,"['methamphetamine', 'cocaine', 'marijuana', 'heroin']"
+D7,"['lsd', 'not_drugs']"
+D8,['psilocybin']
+D8,"['psilocybin', 'not_drugs']"
+D8,['benzodiazepines']
+D9,"['cocaine', 'marijuana']"
+D9,"['lsd', '', 'ecstasy', 'not_drugs']"
+DE,['not_drugs']
+DE,['stimulant']
+DE,['methamphetamine']
+DH,"['cocaine', 'not_drugs']"
+DL,['not_drugs']
+DN,['ecstasy']
+DO,"['cocaine', 'not_drugs']"
+DS,['not_drugs']
+DT,"['marijuana', 'not_drugs']"
+DT,"['cocaine', 'marijuana']"
+Da,['not_drugs']
+Da,"['marijuana', 'hashish', 'ecstasy']"
+Dc,['not_drugs']
+Dd,['marijuana']
+Dd,"['marijuana', 'not_drugs']"
+De,['cocaine']
+De,"['methamphetamine', 'cocaine', 'marijuana', 'stimulant']"
+De,"['', 'methamphetamine', 'cocaine', 'not_drugs']"
+Dg,['not_drugs']
+Dg,['fentanyl']
+Dh,"['psilocybin', 'methamphetamine', 'benzodiazepines', 'oxycodone']"
+Dj,"['marijuana', 'not_drugs']"
+Dk,"['marijuana', 'hashish']"
+Dl,"['marijuana', 'ecstasy']"
+Dl,"['ecstasy', 'not_drugs']"
+Dn,"['', 'marijuana', 'ketamine', 'cocaine', 'not_drugs']"
+Dn,['psilocybin']
+Dn,['cocaine']
+Dn,['not_drugs']
+Dn,"['lsd', '', 'cocaine', 'marijuana']"
+Do,['not_drugs']
+Dp,"['psilocybin', 'cocaine', 'lsd']"
+Dr,"['methamphetamine', 'marijuana']"
+Dr,['not_drugs']
+Ds,"['marijuana', 'ecstasy', 'cocaine', 'benzodiazepines', 'heroin']"
+Ds,['cocaine']
+Ds,"['not_drugs', 'heroin']"
+Ds,['cocaine']
+Dt,"['methamphetamine', 'cocaine', 'ecstasy', 'marijuana']"
+Dt,['not_drugs']
+Du,['not_drugs']
+Dw,['marijuana']
+Dx,"['marijuana', 'ecstasy']"
+Dy,"['cocaine', 'ecstasy', 'not_drugs']"
+Dy,"['fentanyl', 'marijuana']"
+Dz,"['', 'marijuana', 'hashish', 'ketamine']"
+E ,"['', 'ecstasy']"
+E ,['lsd']
+E ,"['cocaine', 'ecstasy', 'hashish']"
+E ,"['benzodiazepines', 'erectile_dysfunction', 'stimulant']"
+E ,"['cocaine', 'marijuana', 'hashish', 'ecstasy']"
+E0,"['', 'marijuana']"
+E1,"['marijuana', 'stimulant']"
+E1,"['marijuana', 'not_drugs']"
+E2,"['ecstasy', 'not_drugs']"
+E2,['not_drugs']
+E3,['benzodiazepines']
+E3,"['marijuana', 'ecstasy']"
+E4,['benzodiazepines']
+E4,"['hashish', 'ketamine']"
+E5,"['marijuana', 'not_drugs']"
+E6,['not_drugs']
+E7,"['methamphetamine', 'opioid_treatment']"
+E8,"['cocaine', 'ecstasy', 'not_drugs']"
+E8,['not_drugs']
+E9,"['', 'marijuana', 'not_drugs']"
+EK,"['methamphetamine', 'not_drugs']"
+EK,"['', 'steroids_and_hormones', 'cocaine', 'not_drugs']"
+EN,['marijuana']
+EO,['not_drugs']
+Ea,['opioid_treatment']
+Ea,['marijuana']
+Ee,"['cocaine', 'marijuana']"
+Ee,['not_drugs']
+Eg,"['marijuana', 'hashish']"
+Eh,['cocaine']
+Eh,['not_drugs']
+Ei,['cocaine']
+Ej,['marijuana']
+Ek,['cocaine']
+Ek,['not_drugs']
+Em,['dmt']
+En,['methamphetamine']
+Eo,"['lsd', 'cocaine', 'not_drugs']"
+Ep,['not_drugs']
+Ep,['marijuana']
+Er,['marijuana']
+Et,['methamphetamine']
+Ex,['lsd']
+Ey,['marijuana']
+Ey,['not_drugs']
+Ez,"['cocaine', 'ecstasy']"
+F ,['ecstasy']
+F ,['methamphetamine']
+F ,['ecstasy']
+F ,"['', 'ecstasy']"
+F ,['benzodiazepines']
+F ,"['cocaine', 'ecstasy']"
+F ,['']
+F ,['marijuana']
+F0,['not_drugs']
+F0,['psilocybin']
+F1,['cocaine']
+F1,"['cocaine', 'oxycodone', 'methamphetamine', 'not_drugs', 'heroin']"
+F2,['ecstasy']
+F2,['not_drugs']
+F3,"['methamphetamine', 'hashish']"
+F4,['not_drugs']
+F4,"['', 'not_drugs']"
+F6,['marijuana']
+F6,['cocaine']
+F7,['not_drugs']
+F7,['cocaine']
+F8,"['cocaine', 'benzodiazepines', 'ketamine']"
+F8,['marijuana']
+F8,['ecstasy']
+F9,"['lsd', 'methamphetamine', 'ecstasy', 'not_drugs']"
+F9,"['cocaine', 'hashish']"
+FJ,"['methamphetamine', 'benzodiazepines']"
+FL,['marijuana']
+FP,['marijuana']
+FR,"['', 'marijuana']"
+FU,['marijuana']
+FX,['ecstasy']
+Fa,['not_drugs']
+Fa,['opioid_treatment']
+Fb,['not_drugs']
+Fd,['not_drugs']
+Fe,['not_drugs']
+Fe,"['lsd', '', 'marijuana']"
+Fe,['prescription']
+Fh,['psilocybin']
+Fi,['marijuana']
+Fi,['ecstasy']
+Fk,['marijuana']
+Fl,['marijuana']
+Fm,['oxycodone']
+Fn,"['', 'opioid', 'marijuana', 'ketamine', 'oxycodone', 'methamphetamine', 'benzodiazepines', 'stimulant']"
+Fo,"['', 'cocaine', 'not_drugs']"
+Fr,"['marijuana', 'stimulant']"
+Fs,"['cocaine', 'marijuana']"
+Fs,['not_drugs']
+Ft,"['marijuana', 'ecstasy', 'psychedelic', 'ketamine', 'lsd', 'not_drugs']"
+Ft,['marijuana']
+Fx,['cocaine']
+Fy,"['', 'not_drugs']"
+Fy,"['ecstasy', 'hashish']"
+Fz,['stimulant']
+G ,['cocaine']
+G ,['stimulant']
+G ,['ecstasy']
+G ,"['cocaine', 'hashish']"
+G0,['marijuana']
+G0,['not_drugs']
+G1,"['cocaine', 'ecstasy']"
+G1,"['', 'not_drugs']"
+G2,['not_drugs']
+G2,"['marijuana', 'stimulant']"
+G3,['psilocybin']
+G3,['cocaine']
+G3,['not_drugs']
+G4,['ecstasy']
+G6,"['benzodiazepines', 'cocaine', 'marijuana', 'ketamine']"
+G7,"['', 'marijuana', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+G7,"['lsd', 'ecstasy', 'hashish']"
+G7,"['lsd', 'not_drugs', 'ketamine']"
+G8,"['ecstasy', 'not_drugs']"
+G8,"['', 'marijuana', 'ecstasy']"
+G9,"['', 'marijuana', 'stimulant', 'lsd']"
+G9,"['marijuana', 'ecstasy', 'psychedelic', 'cocaine', 'not_drugs']"
+GH,['not_drugs']
+GN,['not_drugs']
+GX,['fentanyl']
+GX,['not_drugs']
+Gd,"['', 'marijuana', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+Gd,"['', 'not_drugs']"
+Ge,['not_drugs']
+Ge,['']
+Gf,['cocaine']
+Gg,"['', 'marijuana', 'ecstasy']"
+Gh,['marijuana']
+Gh,['methamphetamine']
+Gh,['ecstasy']
+Gi,['not_drugs']
+Gi,['ecstasy']
+Gj,['opioid']
+Gk,"['', 'ecstasy', 'not_drugs']"
+Gl,['not_drugs']
+Gl,['cocaine']
+Gm,['marijuana']
+Gn,"['cocaine', 'marijuana']"
+Gn,"['not_drugs', 'inhalants']"
+Go,"['methamphetamine', 'hashish']"
+Go,['hashish']
+Gr,['not_drugs']
+Gr,"['lsd', 'not_drugs']"
+Gs,['marijuana']
+Gt,['marijuana']
+Gu,"['methamphetamine', 'marijuana', 'not_drugs']"
+Gu,['methamphetamine']
+Gy,['hashish']
+Gy,"['', 'not_drugs']"
+H ,['benzodiazepines']
+H ,['hashish']
+H ,"['benzodiazepines', 'cocaine', 'ecstasy']"
+H0,"['', 'psilocybin', 'lsd']"
+H0,['']
+H0,['marijuana']
+H1,['not_drugs']
+H1,['benzodiazepines']
+H2,"['marijuana', 'hashish']"
+H2,['not_drugs']
+H3,['ecstasy']
+H5,"['fentanyl', 'cocaine', 'hashish', 'heroin']"
+H6,"['', 'benzodiazepines', 'marijuana', 'ecstasy']"
+H7,['marijuana']
+H7,"['fentanyl', 'marijuana', 'ecstasy']"
+H8,['not_drugs']
+H8,['cocaine']
+H8,['heroin']
+H9,['stimulant']
+H9,"['methamphetamine', 'cocaine']"
+H9,"['lsd', 'ecstasy', 'dmt']"
+HC,['fentanyl']
+HK,['cocaine']
+HR,['not_drugs']
+HY,['cocaine']
+Ha,['cocaine']
+Hb,"['benzodiazepines', 'hashish']"
+Hc,['psilocybin']
+Hd,['marijuana']
+He,"['marijuana', 'hashish', 'ketamine']"
+He,['not_drugs']
+Hf,"['methamphetamine', 'cocaine', 'prescription']"
+Hg,['lsd']
+Hh,['not_drugs']
+Hh,['stimulant']
+Hk,['not_drugs']
+Hl,"['ecstasy', 'not_drugs']"
+Hm,['marijuana']
+Hn,"['', 'benzodiazepines', 'not_drugs']"
+Hn,['not_drugs']
+Ho,['ecstasy']
+Ho,['not_drugs']
+Hp,"['', 'methamphetamine']"
+Hr,['marijuana']
+Hs,"['lsd', 'marijuana', 'dmt', 'not_drugs']"
+Hs,['not_drugs']
+Hs,['']
+Ht,"['lsd', 'cocaine', 'oxycodone']"
+Hy,['psilocybin']
+Hy,"['', 'not_drugs']"
+Hz,['not_drugs']
+I ,"['cocaine', 'ecstasy']"
+I ,"['benzodiazepines', 'ecstasy', 'oxycodone']"
+I ,['stimulant']
+I0,['marijuana']
+I2,['marijuana']
+I2,['not_drugs']
+I3,['marijuana']
+I6,['ecstasy']
+I7,['not_drugs']
+I7,['not_drugs']
+I9,"['cocaine', 'marijuana']"
+II,['marijuana']
+IL,"['cocaine', 'marijuana']"
+IO,['marijuana']
+IT,"['lsd', 'marijuana', 'not_drugs']"
+Ia,['lsd']
+Id,"['dmt', 'not_drugs']"
+Id,['marijuana']
+Ie,['not_drugs']
+Ie,"['lsd', 'benzodiazepines']"
+Ig,"['not_drugs', 'ketamine']"
+Ig,['not_drugs']
+Ih,['marijuana']
+Ii,['not_drugs']
+Ik,['not_drugs']
+In,['ecstasy']
+In,['ketamine']
+Ir,['dmt']
+Ir,['cocaine']
+Is,['lsd']
+It,['marijuana']
+It,"['cocaine', 'ecstasy', 'not_drugs']"
+Iw,['psilocybin']
+J ,['marijuana']
+J ,['ketamine']
+J ,"['cocaine', 'benzodiazepines', 'heroin']"
+J ,['cocaine']
+J ,['cocaine']
+J0,['psychedelic']
+J0,"['', 'marijuana', 'cocaine', 'methamphetamine', 'erectile_dysfunction', 'stimulant']"
+J0,"['lsd', 'not_drugs', 'heroin']"
+J1,['not_drugs']
+J1,"['cocaine', 'ecstasy']"
+J2,['not_drugs']
+J2,['ecstasy']
+J3,['not_drugs']
+J3,"['marijuana', 'oxycodone']"
+J4,['cocaine']
+J4,['marijuana']
+J5,['marijuana']
+J6,['psilocybin']
+J7,"['', 'marijuana', 'not_drugs', 'lsd']"
+J7,['ecstasy']
+J8,['not_drugs']
+J9,"['cocaine', 'not_drugs']"
+J9,"['methamphetamine', 'not_drugs']"
+JB,['not_drugs']
+JG,['not_drugs']
+JJ,['psilocybin']
+JP,"['', 'marijuana']"
+JT,['not_drugs']
+JT,['methamphetamine']
+JZ,['marijuana']
+Ja,['marijuana']
+Jc,"['ecstasy', 'not_drugs']"
+Jd,['not_drugs']
+Jd,['ecstasy']
+Je,"['fentanyl', 'cocaine', 'marijuana', 'dmt']"
+Je,"['cocaine', 'not_drugs']"
+Jh,['not_drugs']
+Ji,"['oxycodone', 'not_drugs']"
+Jk,['not_drugs']
+Jl,['lsd']
+Jm,['marijuana']
+Jn,['marijuana']
+Jn,['not_drugs']
+Jn,['hashish']
+Jo,"['benzodiazepines', 'not_drugs']"
+Jo,['methamphetamine']
+Jo,['opioid_treatment']
+Jp,['not_drugs']
+Jr,['cocaine']
+Js,['not_drugs']
+Js,['marijuana']
+Jt,['methamphetamine']
+Jw,['not_drugs']
+Jx,"['', 'not_drugs']"
+Jx,"['marijuana', 'ketamine']"
+Jy,['']
+Jy,['marijuana']
+Jy,['ecstasy']
+Jy,['cocaine']
+K ,['ecstasy']
+K0,['not_drugs']
+K0,['stimulant']
+K1,"['', 'ecstasy', 'not_drugs']"
+K1,"['methamphetamine', 'marijuana']"
+K2,['heroin']
+K3,"['hashish', 'heroin']"
+K4,"['cocaine', 'marijuana']"
+K5,['marijuana']
+K6,['marijuana']
+K6,['not_drugs']
+K7,['not_drugs']
+K7,['not_drugs']
+K7,"['psilocybin', 'marijuana', 'ecstasy']"
+K9,['ketamine']
+K9,['erectile_dysfunction']
+KS,['lsd']
+KS,['not_drugs']
+Ka,['lsd']
+Ke,"['cocaine', 'marijuana', 'not_drugs']"
+Ke,['cocaine']
+Ke,['not_drugs']
+Kg,['']
+Kh,['marijuana']
+Ki,['psilocybin']
+Ki,['not_drugs']
+Ki,"['marijuana', 'heroin']"
+Kl,['marijuana']
+Km,['not_drugs']
+Kn,"['cocaine', 'marijuana']"
+Ko,['methamphetamine']
+Kp,"['', 'ecstasy']"
+Kq,['marijuana']
+Kr,['psychedelic']
+Kr,"['methamphetamine', 'marijuana']"
+Ks,"['benzodiazepines', 'marijuana']"
+Ks,"['', 'cocaine', 'not_drugs']"
+Kt,['marijuana']
+Kt,['marijuana']
+Ku,"['', 'not_drugs']"
+Kx,['marijuana']
+Kz,['ecstasy']
+L ,['benzodiazepines']
+L ,"['methamphetamine', 'cocaine']"
+L ,['hashish']
+L ,['ecstasy']
+L ,"['prescription', 'hashish']"
+L ,"['ecstasy', 'ketamine', 'cocaine', 'benzodiazepines', 'heroin']"
+L ,['cocaine']
+L ,['lsd']
+L0,['not_drugs']
+L0,['cocaine']
+L1,['not_drugs']
+L1,"['lsd', 'methamphetamine', 'ecstasy']"
+L2,['not_drugs']
+L2,"['cocaine', 'marijuana', 'ecstasy']"
+L4,['methamphetamine']
+L4,"['ecstasy', 'ketamine']"
+L6,['not_drugs']
+L7,['ketamine']
+L7,"['lsd', 'dmt', 'not_drugs']"
+L8,['not_drugs']
+L8,['psychedelic']
+L9,['marijuana']
+L9,['not_drugs']
+LT,"['cocaine', 'marijuana']"
+La,['']
+Lb,['marijuana']
+Lc,['marijuana']
+Ld,"['', 'ecstasy', 'not_drugs']"
+Ld,['marijuana']
+Le,['']
+Le,"['marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'benzodiazepines']"
+Lg,['dmt']
+Lh,['methamphetamine']
+Lh,['cocaine']
+Li,['benzodiazepines']
+Li,['not_drugs']
+Li,['not_drugs']
+Lk,['not_drugs']
+Ln,"['marijuana', 'opioid', 'not_drugs']"
+Ln,['not_drugs']
+Lo,"['lsd', 'cocaine']"
+Lo,['not_drugs']
+Lr,"['opioid', 'marijuana', 'stimulant', 'heroin']"
+Lr,['ecstasy']
+Lr,['ecstasy']
+Ls,['cocaine']
+Ls,"['lsd', 'cocaine', 'not_drugs']"
+Ls,['cocaine']
+Lt,"['', 'ecstasy', 'dmt', 'ketamine', 'dissociative', 'prescription', 'benzodiazepines', 'not_drugs', 'stimulant']"
+Lt,['psilocybin']
+Lw,['methamphetamine']
+Ly,['ecstasy']
+Lz,['marijuana']
+M ,"['', 'marijuana', 'hashish', 'ketamine', 'cocaine']"
+M ,['methamphetamine']
+M ,"['', 'cocaine']"
+M ,['methamphetamine']
+M ,"['methamphetamine', 'ecstasy']"
+M ,"['cocaine', 'erectile_dysfunction']"
+M ,"['', 'marijuana', 'hashish', 'ecstasy']"
+M ,['hashish']
+M ,"['', 'ecstasy']"
+M ,['cocaine']
+M ,['heroin']
+M ,"['methamphetamine', 'cocaine']"
+M ,['ecstasy']
+M0,"['cocaine', 'marijuana']"
+M0,"['benzodiazepines', 'ecstasy']"
+M0,['methamphetamine']
+M0,"['benzodiazepines', 'marijuana', 'not_drugs']"
+M1,"['opioid', 'marijuana', 'ecstasy', 'not_drugs', 'erectile_dysfunction']"
+M1,['marijuana']
+M1,['erectile_dysfunction']
+M1,['']
+M2,"['', 'not_drugs']"
+M2,['marijuana']
+M3,"['methamphetamine', 'cocaine', 'ecstasy', 'marijuana']"
+M3,"['marijuana', 'not_drugs']"
+M4,"['ecstasy', 'not_drugs']"
+M4,['cocaine']
+M5,['marijuana']
+M5,['not_drugs']
+M6,"['cocaine', 'ecstasy']"
+M6,"['marijuana', 'not_drugs']"
+M7,"['methamphetamine', 'marijuana']"
+M7,['not_drugs']
+M8,['not_drugs']
+M9,['ecstasy']
+M9,"['', 'not_drugs']"
+MA,['not_drugs']
+MG,['not_drugs']
+ML,['marijuana']
+MN,['not_drugs']
+MR,['marijuana']
+MU,['not_drugs']
+MV,['marijuana']
+Ma,"['lsd', 'dmt', 'not_drugs']"
+Ma,['steroids_and_hormones']
+Ma,"['ecstasy', 'marijuana', 'cocaine', 'methamphetamine', 'not_drugs']"
+Ma,['cocaine']
+Mb,['not_drugs']
+Md,['not_drugs']
+Md,"['methamphetamine', 'marijuana']"
+Me,"['psilocybin', 'marijuana', 'hashish', 'lsd']"
+Me,['marijuana']
+Me,['heroin']
+Me,"['', 'marijuana', 'ecstasy', 'not_drugs']"
+Mg,['marijuana']
+Mh,"['marijuana', 'oxycodone']"
+Mh,"['ecstasy', 'not_drugs', 'psychedelic']"
+Mi,"['', 'ecstasy', 'not_drugs']"
+Mk,['marijuana']
+Ml,['not_drugs']
+Mn,['hashish']
+Mn,['psilocybin']
+Mo,"['lsd', 'marijuana']"
+Mo,"['', 'cocaine', 'ecstasy']"
+Mp,['not_drugs']
+Mr,['marijuana']
+Mr,['fentanyl']
+Mr,['cocaine']
+Mr,['cocaine']
+Ms,"['', 'ecstasy']"
+Ms,"['methamphetamine', 'marijuana']"
+Mt,"['methamphetamine', 'not_drugs', 'stimulant']"
+Mt,"['lsd', 'opioid', 'marijuana', 'ecstasy']"
+Mt,['']
+Mu,"['ecstasy', 'psychedelic']"
+Mw,['lsd']
+Mw,"['', 'not_drugs', 'inhalants']"
+Mx,['prescription']
+Mx,"['marijuana', 'hashish']"
+My,['marijuana']
+My,"['', 'marijuana', 'not_drugs']"
+My,['cocaine']
+Mz,"['marijuana', 'not_drugs', 'heroin']"
+N ,['ketamine']
+N ,['ketamine']
+N ,"['benzodiazepines', 'ecstasy', 'ketamine']"
+N0,['marijuana']
+N0,"['methamphetamine', 'marijuana']"
+N1,['']
+N2,['not_drugs']
+N3,['ecstasy']
+N6,['cocaine']
+N6,['not_drugs']
+N9,"['', 'not_drugs']"
+NE,['not_drugs']
+NG,['lsd']
+NM,['stimulant']
+NN,"['methamphetamine', 'cocaine']"
+NR,['cocaine']
+NT,['not_drugs']
+NT,['marijuana']
+NY,['']
+Na,"['lsd', 'ecstasy']"
+Ne,"['psilocybin', 'cocaine', 'marijuana', 'lsd']"
+Ne,"['methamphetamine', 'marijuana', 'not_drugs']"
+Ni,['marijuana']
+Nk,"['marijuana', 'not_drugs']"
+Nk,['marijuana']
+Nl,['ecstasy']
+Nm,['opioid']
+Nm,"['psilocybin', 'marijuana']"
+Nm,['not_drugs']
+Nn,"['', 'cocaine']"
+Nn,"['marijuana', 'benzodiazepines', 'not_drugs', 'stimulant']"
+Nr,['lsd']
+Nr,['lsd']
+Ns,"['marijuana', 'ecstasy']"
+Ns,"['lsd', 'not_drugs']"
+Nt,['dmt']
+Nz,"['', 'oxycodone']"
+Nz,['not_drugs']
+O ,['heroin']
+O ,"['cocaine', 'benzodiazepines', 'erectile_dysfunction', 'ecstasy']"
+O ,['cocaine']
+O ,"['lsd', 'methamphetamine', 'ecstasy', 'ketamine']"
+O ,['heroin']
+O ,"['cocaine', 'stimulant', 'ketamine']"
+O0,['cocaine']
+O0,['not_drugs']
+O1,"['', 'dmt', 'lsd']"
+O2,"['lsd', 'marijuana', 'dmt', 'ecstasy']"
+O3,['not_drugs']
+O4,"['steroids_and_hormones', 'cocaine']"
+O7,"['cocaine', 'marijuana']"
+OD,['marijuana']
+OE,['oxycodone']
+OL,['psychedelic']
+OR,['not_drugs']
+Oh,['marijuana']
+Ok,['hashish']
+On,['cocaine']
+Op,['marijuana']
+Or,['']
+Or,['marijuana']
+Os,['ketamine']
+Os,"['lsd', 'cocaine']"
+Ot,['marijuana']
+Ot,['']
+Ou,['cocaine']
+Ow,['cocaine']
+Ox,['not_drugs']
+P ,"['ecstasy', 'ketamine', 'cocaine', 'methamphetamine', 'heroin']"
+P ,"['cocaine', 'erectile_dysfunction']"
+P ,"['marijuana', 'cocaine', 'ecstasy', 'erectile_dysfunction']"
+P ,"['', 'ecstasy']"
+P ,"['ecstasy', 'psychedelic', 'cocaine', 'methamphetamine', 'erectile_dysfunction', 'stimulant']"
+P ,"['marijuana', 'ecstasy', 'heroin']"
+P ,"['', 'ecstasy', 'cocaine', 'lsd', 'methamphetamine']"
+P ,['opioid']
+P ,"['methamphetamine', 'ecstasy', 'ketamine']"
+P ,"['psilocybin', 'erectile_dysfunction']"
+P ,['ecstasy']
+P ,['heroin']
+P0,['not_drugs']
+P0,['cocaine']
+P1,"['cocaine', 'ecstasy', 'erectile_dysfunction']"
+P1,['psilocybin']
+P2,['psilocybin']
+P2,['marijuana']
+P3,"['ecstasy', 'marijuana', 'not_drugs', 'lsd', 'methamphetamine', 'erectile_dysfunction']"
+P3,"['marijuana', 'not_drugs']"
+P4,['marijuana']
+P6,['not_drugs']
+P6,['hashish']
+P7,"['ecstasy', 'not_drugs']"
+P7,"['methamphetamine', 'cocaine', 'marijuana', 'erectile_dysfunction']"
+P9,"['psilocybin', '', 'cocaine', 'ecstasy']"
+P9,['cocaine']
+PA,['psychedelic']
+PB,['marijuana']
+PD,['not_drugs']
+PJ,['benzodiazepines']
+PK,"['marijuana', 'ecstasy', 'dmt', 'cocaine', 'lsd', 'heroin']"
+PO,['not_drugs']
+PQ,['marijuana']
+PS,['dmt']
+Pa,"['cocaine', 'not_drugs']"
+Pa,['marijuana']
+Pa,"['', 'marijuana', 'ecstasy', 'ketamine', 'methamphetamine']"
+Pb,['not_drugs']
+Pc,"['', 'benzodiazepines']"
+Pd,['not_drugs']
+Pd,"['lsd', 'ecstasy', 'not_drugs', 'heroin']"
+Pe,"['', 'marijuana', 'hashish', 'cocaine', 'methamphetamine']"
+Pe,['hashish']
+Pe,"['dmt', 'not_drugs']"
+Pg,"['', 'cocaine']"
+Pg,['not_drugs']
+Ph,"['marijuana', 'ecstasy']"
+Ph,['lsd']
+Pi,['heroin']
+Pk,"['', 'not_drugs']"
+Pk,['not_drugs']
+Pn,['fentanyl']
+Pn,['not_drugs']
+Po,"['cocaine', 'ecstasy']"
+Po,['not_drugs']
+Po,['hashish']
+Pr,['hashish']
+Pr,['marijuana']
+Pr,"['marijuana', 'not_drugs']"
+Pr,['methamphetamine']
+Ps,"['marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'lsd']"
+Ps,['ecstasy']
+Ps,"['marijuana', 'dmt']"
+Pt,['cocaine']
+Px,['not_drugs']
+Py,['ecstasy']
+Py,['marijuana']
+Q ,"['cocaine', 'prescription', 'ecstasy']"
+Q1,['psilocybin']
+Q5,"['ecstasy', 'heroin']"
+Q6,['oxycodone']
+Q6,['not_drugs']
+Q8,['marijuana']
+QC,['methamphetamine']
+QF,['ecstasy']
+QT,"['cocaine', 'marijuana']"
+Qa,['ecstasy']
+Qe,['marijuana']
+Qe,['not_drugs']
+Qi,['marijuana']
+Ql,"['marijuana', 'hashish']"
+Qy,['']
+R ,"['', 'ecstasy']"
+R ,"['cocaine', 'ecstasy']"
+R ,"['ecstasy', 'marijuana', 'steroids_and_hormones', 'ketamine', 'lsd', 'methamphetamine']"
+R ,"['erectile_dysfunction', 'ketamine']"
+R ,['cocaine']
+R0,['cocaine']
+R0,['not_drugs']
+R1,['methamphetamine']
+R2,['marijuana']
+R2,"['cocaine', 'marijuana']"
+R2,"['', 'ecstasy', 'psilocybin', 'lsd', 'not_drugs', 'stimulant']"
+R3,['not_drugs']
+R3,"['', 'ecstasy', 'psilocybin', 'oxycodone', 'opioid_treatment']"
+R3,['cocaine']
+R4,"['psilocybin', 'marijuana']"
+R5,['hashish']
+R5,"['benzodiazepines', 'marijuana', 'not_drugs']"
+R6,['not_drugs']
+R6,['psilocybin']
+R7,['not_drugs']
+R7,['marijuana']
+R8,"['opioid', 'marijuana']"
+R8,['not_drugs']
+R9,"['methamphetamine', 'ecstasy', 'stimulant']"
+R9,['not_drugs']
+RN,['not_drugs']
+RR,['lsd']
+RS,"['', 'not_drugs']"
+RT,['not_drugs']
+RX,['not_drugs']
+RX,['hashish']
+Ra,['']
+Ra,['marijuana']
+Rd,"['', 'ecstasy', 'marijuana', 'ketamine', 'psilocybin', 'lsd', 'stimulant']"
+Re,['cocaine']
+Re,"['marijuana', 'stimulant', 'ketamine']"
+Rf,['not_drugs']
+Rg,['']
+Ri,"['marijuana', 'heroin']"
+Rl,"['marijuana', 'hashish', 'psilocybin', 'methamphetamine', 'erectile_dysfunction']"
+Rl,"['marijuana', 'not_drugs']"
+Rm,['fentanyl']
+Rn,"['', 'not_drugs']"
+Rn,['lsd']
+Ro,['hashish']
+Rp,['marijuana']
+Rr,"['methamphetamine', 'marijuana', 'oxycodone', 'ecstasy']"
+Rr,"['marijuana', 'not_drugs']"
+Rs,"['benzodiazepines', 'stimulant']"
+Rs,['not_drugs']
+Rt,['marijuana']
+Rt,['opioid_treatment']
+Ry,['benzodiazepines']
+Ry,"['marijuana', 'psychedelic']"
+Ry,"['', 'not_drugs']"
+Rz,['methamphetamine']
+S ,['ecstasy']
+S ,"['marijuana', 'hashish']"
+S ,"['marijuana', 'stimulant']"
+S ,"['marijuana', 'ecstasy', 'ketamine', 'cocaine', 'stimulant']"
+S ,['ecstasy']
+S ,['ketamine']
+S ,"['methamphetamine', 'ecstasy']"
+S!,"['cocaine', 'marijuana']"
+S0,['psilocybin']
+S0,['not_drugs']
+S0,['marijuana']
+S0,['cocaine']
+S0,"['', 'methamphetamine', 'psilocybin', 'marijuana']"
+S1,"['', 'ecstasy', 'hashish', 'ketamine', 'not_drugs']"
+S1,"['psilocybin', 'cocaine', 'marijuana']"
+S2,"['lsd', '', 'marijuana', 'not_drugs']"
+S2,['cocaine']
+S2,['opioid_treatment']
+S3,"['psilocybin', 'methamphetamine', 'marijuana', 'not_drugs']"
+S3,['benzodiazepines']
+S3,['']
+S3,"['', 'marijuana', 'hashish', 'not_drugs', 'stimulant']"
+S4,['not_drugs']
+S4,"['marijuana', 'hashish']"
+S4,['methamphetamine']
+S5,"['psilocybin', 'marijuana']"
+S5,"['', 'not_drugs']"
+S6,['']
+S6,['not_drugs']
+S6,"['methamphetamine', 'oxycodone']"
+S7,['hashish']
+S7,['marijuana']
+S7,"['psilocybin', '', 'marijuana', 'not_drugs']"
+S8,['ketamine']
+S8,['not_drugs']
+S8,['not_drugs']
+S8,['cocaine']
+S9,['not_drugs']
+S9,['cocaine']
+S9,['stimulant']
+S9,"['psilocybin', 'ecstasy']"
+S9,"['benzodiazepines', 'cocaine', 'marijuana', 'hashish']"
+SD,['cocaine']
+SD,"['', 'marijuana', 'not_drugs']"
+SE,['not_drugs']
+SI,['psilocybin']
+SJ,['hashish']
+SK,['cocaine']
+SN,['not_drugs']
+SN,['marijuana']
+SQ,['marijuana']
+SR,['not_drugs']
+SS,"['cocaine', 'marijuana']"
+ST,['not_drugs']
+SV,['opioid']
+SW,['ecstasy']
+SX,['ecstasy']
+S_,['not_drugs']
+Sa,"['', 'cocaine']"
+Sa,['methamphetamine']
+Sa,['ecstasy']
+Sa,['ecstasy']
+Sa,['benzodiazepines']
+Sb,['cocaine']
+Sc,['ecstasy']
+Sd,['marijuana']
+Sd,"['lsd', 'dmt', 'not_drugs']"
+Sd,"['lsd', 'methamphetamine', 'not_drugs']"
+Se,['cocaine']
+Se,"['marijuana', 'ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'prescription', 'lsd', 'methamphetamine']"
+Se,['cocaine']
+Se,"['', 'marijuana', 'dmt', 'not_drugs']"
+Sf,"['benzodiazepines', 'marijuana']"
+Sg,['marijuana']
+Sh,['marijuana']
+Sh,"['psilocybin', 'marijuana', 'lsd']"
+Sh,"['opioid', 'marijuana', 'heroin']"
+Si,['hashish']
+Si,"['cocaine', 'marijuana']"
+Si,['lsd']
+Sk,['not_drugs']
+Sk,"['ecstasy', 'oxycodone']"
+Sk,['']
+Sl,"['', 'marijuana', 'not_drugs']"
+Sl,"['methamphetamine', 'marijuana']"
+Sm,"['lsd', 'cocaine', 'not_drugs', 'psychedelic']"
+Sm,"['', 'not_drugs']"
+Sm,['opioid_treatment']
+Sn,"['marijuana', 'psychedelic', 'cocaine', 'oxycodone', 'lsd']"
+Sn,['opioid']
+Sn,"['hashish', 'not_drugs']"
+So,['lsd']
+So,['marijuana']
+Sp,"['cocaine', 'not_drugs']"
+Sr,"['', 'not_drugs']"
+Sr,['methamphetamine']
+Sr,"['', 'opioid', 'marijuana']"
+Sr,"['marijuana', 'hashish', 'ecstasy']"
+Sr,['lsd']
+Ss,"['marijuana', 'not_drugs']"
+Ss,['hashish']
+Ss,"['methamphetamine', 'cocaine', 'marijuana', 'hashish']"
+St,"['cocaine', 'not_drugs']"
+St,['cocaine']
+St,['marijuana']
+St,"['cocaine', 'not_drugs', 'psychedelic']"
+Su,['marijuana']
+Sw,['marijuana']
+Sx,"['psilocybin', 'ecstasy']"
+Sy,['']
+Sy,"['', 'ecstasy', 'marijuana', 'dmt', 'ketamine', 'psilocybin', 'cocaine', 'lsd', 'benzodiazepines', 'not_drugs']"
+Sy,"['', 'opioid', 'marijuana', 'cocaine', 'methamphetamine']"
+Sz,['ecstasy']
+Sz,['marijuana']
+T ,['marijuana']
+T ,['benzodiazepines']
+T ,"['cocaine', 'marijuana', 'heroin']"
+T ,['ecstasy']
+T ,['erectile_dysfunction']
+T ,['marijuana']
+T ,['ecstasy']
+T ,"['', 'ecstasy', 'hashish', 'ketamine', 'cocaine', 'methamphetamine', 'stimulant']"
+T ,['psychedelic']
+T ,"['', 'ecstasy', 'psychedelic', 'ketamine', 'methamphetamine']"
+T ,"['methamphetamine', 'ecstasy', 'erectile_dysfunction']"
+T ,"['ecstasy', 'heroin']"
+T0,"['lsd', 'not_drugs']"
+T0,"['lsd', 'hashish']"
+T0,['']
+T1,"['marijuana', 'not_drugs']"
+T1,['marijuana']
+T1,['marijuana']
+T1,['marijuana']
+T2,"['', 'marijuana', 'not_drugs']"
+T2,['not_drugs']
+T3,"['methamphetamine', 'not_drugs']"
+T3,"['', 'marijuana']"
+T4,['not_drugs']
+T4,['ecstasy']
+T5,"['ecstasy', 'erectile_dysfunction']"
+T5,['not_drugs']
+T6,"['', 'not_drugs']"
+T6,"['', 'oxycodone']"
+T6,"['methamphetamine', 'marijuana']"
+T7,['not_drugs']
+T7,['ecstasy']
+T7,"['methamphetamine', 'cocaine', 'benzodiazepines', 'not_drugs']"
+T8,"['', 'marijuana', 'hashish']"
+T9,['not_drugs']
+T9,"['', 'marijuana', 'ecstasy', 'cocaine', 'methamphetamine']"
+T9,['not_drugs']
+TT,"['marijuana', 'ecstasy']"
+T_,['not_drugs']
+Ta,"['', 'marijuana', 'ecstasy', 'psilocybin', 'methamphetamine']"
+Ta,['not_drugs']
+Td,"['', 'benzodiazepines', 'not_drugs', 'heroin']"
+Td,['not_drugs']
+Td,"['cocaine', 'benzodiazepines']"
+Te,"['marijuana', 'ketamine', 'dissociative', 'cocaine', 'oxycodone', 'methamphetamine']"
+Te,"['lsd', 'cocaine', 'not_drugs', 'stimulant']"
+Tg,['not_drugs']
+Ti,['marijuana']
+Tk,['ecstasy']
+Tk,"['lsd', '', 'psilocybin', 'benzodiazepines']"
+Tl,['lsd']
+Tl,"['ecstasy', 'not_drugs']"
+Tm,['oxycodone']
+Tn,"['', 'methamphetamine', 'ecstasy', 'not_drugs']"
+Tn,"['', 'marijuana', 'hashish']"
+Tn,['ecstasy']
+Tn,['marijuana']
+To,['cocaine']
+To,['marijuana']
+To,['not_drugs']
+Tp,['']
+Tp,"['cocaine', 'not_drugs']"
+Tp,['marijuana']
+Tr,['lsd']
+Tr,"['benzodiazepines', 'cocaine', 'marijuana']"
+Tr,"['', 'oxycodone']"
+Tr,"['opioid', 'cocaine', 'lsd', 'benzodiazepines', 'not_drugs']"
+Ts,"['opioid', 'marijuana']"
+Ts,['']
+Tt,['psychedelic']
+Tt,['not_drugs']
+Tu,"['marijuana', 'not_drugs']"
+Tx,"['cocaine', 'stimulant']"
+Tx,"['', 'not_drugs']"
+Ty,['not_drugs']
+Ty,"['methamphetamine', 'marijuana', 'not_drugs', 'heroin']"
+Ty,['marijuana']
+Tz,"['', 'marijuana']"
+U ,"['', 'steroids_and_hormones']"
+U0,"['marijuana', 'cocaine', 'ecstasy', 'ketamine']"
+U0,['cocaine']
+U3,['']
+U7,"['lsd', '', 'not_drugs']"
+U8,"['ecstasy', 'not_drugs']"
+U9,"['cocaine', 'not_drugs']"
+U9,['marijuana']
+UI,['hashish']
+Ub,"['lsd', 'psychedelic', 'ketamine']"
+Ud,"['marijuana', 'hashish']"
+Ue,"['ecstasy', 'not_drugs']"
+Ui,['lsd']
+Ul,['benzodiazepines']
+Un,"['cocaine', 'ecstasy']"
+Uo,['not_drugs']
+Uw,['']
+Uy,['not_drugs']
+V ,"['ecstasy', 'marijuana', 'hashish', 'ketamine', 'methamphetamine']"
+V ,['ketamine']
+V ,['stimulant']
+V0,['not_drugs']
+V2,"['ecstasy', 'ketamine']"
+V3,['not_drugs']
+V8,['ketamine']
+VB,['marijuana']
+VN,['not_drugs']
+VR,['stimulant']
+Va,['ecstasy']
+Ve,"['marijuana', 'oxycodone']"
+Ve,['']
+Vk,['not_drugs']
+Vn,['hashish']
+Vn,['marijuana']
+Vo,['marijuana']
+Vr,['marijuana']
+Vs,"['psilocybin', 'not_drugs']"
+Vx,['lsd']
+Vy,['not_drugs']
+Vy,['fentanyl']
+W ,['marijuana']
+W ,"['', 'opioid', 'marijuana', 'cocaine', 'prescription', 'oxycodone', 'benzodiazepines', 'heroin']"
+W ,['marijuana']
+W ,['marijuana']
+W ,['methamphetamine']
+W0,['not_drugs']
+W0,['hashish']
+W1,"['ecstasy', 'not_drugs']"
+W2,"['methamphetamine', 'benzodiazepines', 'oxycodone', 'marijuana']"
+W3,['marijuana']
+W4,"['lsd', '']"
+W5,"['methamphetamine', 'cocaine']"
+W6,"['ecstasy', 'not_drugs']"
+W8,['marijuana']
+W9,"['lsd', 'marijuana', 'ecstasy', 'ketamine']"
+W9,['lsd']
+WH,['ecstasy']
+WR,['not_drugs']
+Wd,['marijuana']
+We,"['methamphetamine', 'marijuana']"
+We,['not_drugs']
+Wh,['marijuana']
+Wk,['not_drugs']
+Wl,['marijuana']
+Wl,['not_drugs']
+Wn,"['marijuana', 'heroin']"
+Wo,"['psilocybin', 'ecstasy']"
+Wo,['']
+Wp,['methamphetamine']
+Wr,"['lsd', 'cocaine', 'marijuana']"
+Wr,['not_drugs']
+Ws,"['lsd', 'marijuana', 'hashish', 'not_drugs']"
+Wy,['marijuana']
+X0,"['lsd', 'ecstasy']"
+X3,['not_drugs']
+X5,"['', 'ecstasy', 'dmt', 'methamphetamine', 'not_drugs', 'stimulant']"
+X7,"['', 'marijuana', 'psilocybin', 'cocaine', 'lsd', 'heroin']"
+X8,['not_drugs']
+X9,['ecstasy']
+X9,['marijuana']
+X9,['hashish']
+XB,['oxycodone']
+XD,['hashish']
+XX,"['benzodiazepines', 'oxycodone']"
+Xw,['psychedelic']
+Y0,['not_drugs']
+Y5,['marijuana']
+Y6,['not_drugs']
+Y8,"['', 'not_drugs']"
+Y8,['ecstasy']
+Y8,"['methamphetamine', 'cocaine', 'marijuana']"
+YM,['not_drugs']
+Ya,['not_drugs']
+Ye,['not_drugs']
+Ye,['not_drugs']
+Yl,"['methamphetamine', 'cocaine']"
+Ys,['not_drugs']
+Yt,['not_drugs']
+Yy,"['marijuana', 'ecstasy']"
+Z0,"['psilocybin', 'not_drugs']"
+Z1,"['', 'marijuana']"
+Z2,"['psilocybin', 'cocaine']"
+Z3,['not_drugs']
+Z4,"['cocaine', 'marijuana']"
+Z5,['cocaine']
+Z8,['marijuana']
+Z9,['psilocybin']
+ZX,"['marijuana', 'not_drugs']"
+Za,['']
+Zc,['']
+Zd,"['lsd', 'psilocybin']"
+Zd,"['marijuana', 'benzodiazepines']"
+Ze,['methamphetamine']
+Zh,['oxycodone']
+Zh,['not_drugs']
+Zi,['marijuana']
+Zl,"['marijuana', 'not_drugs']"
+Zn,['']
+Zn,['not_drugs']
+Zn,['marijuana']
+Zr,['benzodiazepines']
+Zs,['marijuana']
+Zt,"['marijuana', 'not_drugs', 'heroin']"
+Zy,['not_drugs']
+__,"['cocaine', 'not_drugs']"
+_n,['not_drugs']
+_r,['']
+a ,"['methamphetamine', 'cocaine', 'ecstasy', 'heroin']"
+a ,"['cocaine', 'benzodiazepines', 'heroin']"
+a ,['ketamine']
+a ,"['marijuana', 'ecstasy', 'ketamine', 'methamphetamine', 'heroin']"
+a ,['']
+a ,"['', 'marijuana']"
+a ,"['marijuana', 'not_drugs', 'hashish']"
+a ,"['ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'prescription', 'lsd']"
+a ,"['cocaine', 'heroin']"
+a ,['ecstasy']
+a ,['marijuana']
+a ,"['cocaine', 'ecstasy']"
+a ,"['lsd', 'methamphetamine', 'marijuana', 'hashish']"
+a ,"['methamphetamine', 'ecstasy', 'stimulant', 'ketamine']"
+a ,['stimulant']
+a ,"['', 'ecstasy', 'steroids_and_hormones', 'cocaine', 'methamphetamine']"
+a ,"['lsd', 'cocaine', 'hashish']"
+a ,['opioid_treatment']
+a ,"['opioid', 'ecstasy', 'marijuana', 'hashish', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+a0,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'methamphetamine', 'not_drugs']"
+a0,['not_drugs']
+a0,['not_drugs']
+a0,['prescription']
+a0,['']
+a0,['marijuana']
+a0,['']
+a1,"['ecstasy', 'not_drugs', 'ketamine']"
+a1,"['', 'marijuana', 'ecstasy', 'psilocybin', 'methamphetamine']"
+a2,['not_drugs']
+a2,['ecstasy']
+a2,['benzodiazepines']
+a2,"['marijuana', 'hashish', 'not_drugs']"
+a2,"['', 'methamphetamine', 'opioid_treatment']"
+a3,['oxycodone']
+a3,"['', 'ketamine', 'lsd', 'not_drugs', 'stimulant']"
+a3,['not_drugs']
+a3,"['marijuana', 'cocaine', 'ecstasy']"
+a3,"['marijuana', 'hashish']"
+a3,['not_drugs']
+a3,['ecstasy']
+a4,"['', 'not_drugs']"
+a4,"['', 'methamphetamine', 'not_drugs']"
+a4,['not_drugs']
+a5,"['lsd', 'psilocybin', 'marijuana', 'not_drugs']"
+a5,['not_drugs']
+a5,"['lsd', 'methamphetamine', 'marijuana']"
+a5,['marijuana']
+a5,['not_drugs']
+a6,['marijuana']
+a6,['not_drugs']
+a6,['']
+a6,['dissociative']
+a7,['']
+a7,['not_drugs']
+a7,"['cocaine', 'hashish']"
+a7,['ecstasy']
+a7,['']
+a8,"['ecstasy', 'dmt', 'psychedelic', 'methamphetamine', 'not_drugs']"
+a8,['not_drugs']
+a8,['not_drugs']
+a9,['']
+a9,"['methamphetamine', 'cocaine', 'marijuana']"
+a9,"['', 'marijuana', 'not_drugs']"
+aI,['marijuana']
+aM,['lsd']
+a_,['not_drugs']
+aa,"['ecstasy', 'not_drugs']"
+aa,"['ecstasy', 'ketamine', 'cocaine', 'methamphetamine', 'not_drugs', 'heroin']"
+aa,['marijuana']
+aa,['marijuana']
+aa,['not_drugs']
+ab,"['methamphetamine', 'marijuana']"
+ac,"['marijuana', 'not_drugs']"
+ad,['benzodiazepines']
+ad,"['erectile_dysfunction', 'not_drugs']"
+ad,"['', 'marijuana', 'ecstasy', 'ketamine', 'cocaine']"
+ad,['opioid']
+ae,"['lsd', 'not_drugs', 'ketamine']"
+ae,"['cocaine', 'ecstasy', 'hashish', 'not_drugs']"
+ae,['cocaine']
+ae,['not_drugs']
+af,"['methamphetamine', 'opioid', 'heroin']"
+af,['psilocybin']
+af,['']
+af,"['ecstasy', 'erectile_dysfunction', 'not_drugs']"
+ag,['marijuana']
+ag,"['ecstasy', 'not_drugs']"
+ag,"['cocaine', 'oxycodone']"
+ag,"['', 'oxycodone']"
+ag,"['marijuana', 'psychedelic']"
+ag,['marijuana']
+ag,['cocaine']
+ah,['not_drugs']
+ah,"['ecstasy', 'hashish']"
+ah,['marijuana']
+ai,['benzodiazepines']
+ai,['not_drugs']
+ai,['ketamine']
+ai,['marijuana']
+ak,['']
+ak,['not_drugs']
+ak,"['marijuana', 'heroin']"
+ak,['oxycodone']
+al,"['', 'marijuana', 'ecstasy', 'dmt', 'ketamine', 'psilocybin', 'cocaine', 'not_drugs']"
+al,['not_drugs']
+al,['ecstasy']
+am,['']
+an,['cocaine']
+an,"['ecstasy', 'psilocybin', 'cocaine', 'lsd', 'benzodiazepines', 'not_drugs']"
+an,['benzodiazepines']
+an,['marijuana']
+an,"['methamphetamine', 'cocaine', 'marijuana', 'steroids_and_hormones']"
+an,['']
+ao,"['marijuana', 'not_drugs', 'heroin']"
+ao,['marijuana']
+ao,"['', 'marijuana']"
+ao,"['cocaine', 'not_drugs']"
+ao,['']
+ao,['cocaine']
+ap,['ketamine']
+ap,['not_drugs']
+ap,"['cocaine', 'marijuana']"
+aq,['oxycodone']
+ar,"['', 'marijuana', 'not_drugs', 'lsd']"
+ar,['cocaine']
+ar,"['marijuana', 'dmt', 'hashish', 'dissociative', 'not_drugs', 'stimulant']"
+ar,['not_drugs']
+as,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'lsd', 'methamphetamine']"
+as,"['', 'stimulant']"
+as,['stimulant']
+as,['cocaine']
+as,['dissociative']
+as,['not_drugs']
+as,['ecstasy']
+as,['not_drugs']
+as,"['', 'not_drugs']"
+as,['opioid']
+as,['ecstasy']
+as,"['methamphetamine', 'stimulant', 'ketamine']"
+as,['marijuana']
+at,['']
+at,"['ecstasy', 'dmt', 'hashish']"
+at,"['marijuana', 'ecstasy', 'steroids_and_hormones', 'inhalants', 'not_drugs']"
+at,['marijuana']
+au,['cocaine']
+aw,"['marijuana', 'ecstasy', 'dmt']"
+ax,['not_drugs']
+ax,"['marijuana', 'ecstasy']"
+ax,['not_drugs']
+ay,['']
+ay,"['', 'marijuana', 'ecstasy', 'inhalants', 'psilocybin', 'cocaine', 'lsd', 'methamphetamine', 'heroin']"
+ay,"['lsd', 'ketamine']"
+ay,"['psilocybin', 'cocaine', 'marijuana']"
+ay,['ecstasy']
+az,['not_drugs']
+az,['opioid']
+az,"['', 'hashish']"
+b ,"['fentanyl', 'cocaine']"
+b ,['cocaine']
+b ,['stimulant']
+b ,['ecstasy']
+b ,"['steroids_and_hormones', 'ecstasy']"
+b ,"['', 'methamphetamine']"
+b ,"['', 'marijuana', 'hashish', 'cocaine', 'erectile_dysfunction']"
+b ,"['cocaine', 'stimulant', 'ketamine']"
+b ,"['marijuana', 'hashish']"
+b ,['']
+b ,"['marijuana', 'ecstasy', 'dmt', 'psychedelic', 'cocaine', 'lsd']"
+b ,"['cocaine', 'benzodiazepines', 'hashish']"
+b ,"['', 'ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'lsd']"
+b ,"['steroids_and_hormones', 'ecstasy']"
+b ,['ecstasy']
+b ,['heroin']
+b ,"['methamphetamine', 'cocaine', 'ecstasy']"
+b ,"['cocaine', 'ecstasy', 'stimulant']"
+b ,['opioid_treatment']
+b ,['ketamine']
+b ,"['', 'marijuana', 'hashish', 'cocaine', 'methamphetamine']"
+b0,['not_drugs']
+b0,['not_drugs']
+b0,"['', 'psilocybin']"
+b0,['oxycodone']
+b0,['marijuana']
+b1,['']
+b1,"['marijuana', 'ecstasy', 'hashish', 'psychedelic', 'cocaine', 'methamphetamine', 'benzodiazepines', 'not_drugs', 'heroin']"
+b1,"['', 'benzodiazepines']"
+b1,"['lsd', 'dmt', 'psychedelic', 'not_drugs']"
+b1,['heroin']
+b1,['opioid']
+b1,['ecstasy']
+b2,['oxycodone']
+b2,['not_drugs']
+b2,['not_drugs']
+b2,['opioid']
+b2,"['', 'marijuana', 'psilocybin', 'methamphetamine', 'heroin']"
+b2,['benzodiazepines']
+b2,"['lsd', 'methamphetamine', 'marijuana', 'not_drugs']"
+b3,['cocaine']
+b3,"['', 'methamphetamine', 'ecstasy', 'hashish']"
+b3,['not_drugs']
+b3,['methamphetamine']
+b3,"['', 'marijuana', 'ecstasy', 'ketamine', 'lsd', 'not_drugs']"
+b4,"['lsd', 'marijuana']"
+b4,['not_drugs']
+b4,['heroin']
+b4,"['ecstasy', 'not_drugs']"
+b4,['']
+b5,"['ecstasy', 'not_drugs']"
+b5,['hashish']
+b5,"['marijuana', 'ecstasy', 'not_drugs']"
+b5,"['oxycodone', 'stimulant']"
+b5,['benzodiazepines']
+b5,['oxycodone']
+b6,['oxycodone']
+b6,"['', 'ecstasy', 'cocaine', 'benzodiazepines', 'not_drugs']"
+b6,['ecstasy']
+b6,"['benzodiazepines', 'ecstasy']"
+b7,['not_drugs']
+b7,['not_drugs']
+b7,['fentanyl']
+b7,"['methamphetamine', 'cocaine', 'ketamine']"
+b7,"['', 'not_drugs']"
+b7,['ecstasy']
+b8,['']
+b8,"['cocaine', 'marijuana', 'oxycodone', 'opioid_treatment']"
+b8,['marijuana']
+b8,['lsd']
+b8,['methamphetamine']
+b8,['']
+b8,"['benzodiazepines', 'marijuana', 'not_drugs']"
+b8,['cocaine']
+b8,"['ecstasy', 'marijuana', 'lsd', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+b9,['cocaine']
+b9,['not_drugs']
+b9,"['marijuana', 'ecstasy', 'lsd', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+b9,"['marijuana', 'not_drugs']"
+b9,['dmt']
+b9,['marijuana']
+bA,['lsd']
+b_,['not_drugs']
+ba,"['marijuana', 'not_drugs', 'ecstasy']"
+ba,"['marijuana', 'ecstasy']"
+ba,['marijuana']
+bb,['marijuana']
+bb,"['lsd', 'not_drugs']"
+bc,['marijuana']
+bd,['ecstasy']
+bd,['benzodiazepines']
+bd,['not_drugs']
+bd,['cocaine']
+bd,"['', 'marijuana', 'psychedelic']"
+bd,"['marijuana', 'ecstasy', 'not_drugs']"
+bd,['marijuana']
+be,['']
+be,"['marijuana', 'benzodiazepines']"
+be,"['', 'marijuana', 'ecstasy', 'hashish', 'cocaine', 'benzodiazepines']"
+be,['']
+be,"['cocaine', 'marijuana']"
+be,['psychedelic']
+be,"['ecstasy', 'hashish', 'ketamine', 'methamphetamine', 'not_drugs']"
+be,['stimulant']
+be,['']
+be,['']
+bf,['not_drugs']
+bf,['not_drugs']
+bf,['psychedelic']
+bf,['not_drugs']
+bg,"['', 'marijuana']"
+bg,['not_drugs']
+bg,['not_drugs']
+bg,"['cocaine', 'marijuana']"
+bh,['benzodiazepines']
+bh,"['marijuana', 'hashish', 'ecstasy']"
+bi,"['', 'ecstasy', 'not_drugs']"
+bi,"['benzodiazepines', 'hashish']"
+bk,['']
+bk,['marijuana']
+bk,['not_drugs']
+bk,"['ecstasy', 'not_drugs']"
+bl,['ecstasy']
+bl,"['marijuana', 'ecstasy', 'cocaine', 'benzodiazepines', 'not_drugs', 'stimulant']"
+bl,['psychedelic']
+bl,['benzodiazepines']
+bm,"['benzodiazepines', 'marijuana']"
+bm,['stimulant']
+bm,['not_drugs']
+bn,['benzodiazepines']
+bn,['not_drugs']
+bn,"['marijuana', 'ecstasy', 'hashish', 'benzodiazepines', 'not_drugs']"
+bn,['']
+bn,"['', 'marijuana', 'ketamine']"
+bo,['oxycodone']
+bo,"['cocaine', 'stimulant']"
+bo,"['marijuana', 'benzodiazepines', 'dissociative']"
+bo,['stimulant']
+bo,['not_drugs']
+bo,['marijuana']
+bo,"['opioid', 'ecstasy', 'marijuana', 'fentanyl', 'cocaine', 'benzodiazepines']"
+bo,['marijuana']
+bp,"['methamphetamine', 'marijuana', 'not_drugs', 'benzodiazepines']"
+bp,"['lsd', 'not_drugs']"
+br,"['marijuana', 'heroin']"
+br,['psychedelic']
+br,"['cocaine', 'marijuana', 'erectile_dysfunction', 'ketamine']"
+br,"['not_drugs', 'ketamine']"
+br,['stimulant']
+br,['not_drugs']
+br,"['', 'methamphetamine', 'cocaine', 'marijuana']"
+br,['benzodiazepines']
+br,['not_drugs']
+bs,['not_drugs']
+bs,"['fentanyl', 'cocaine', 'marijuana', 'stimulant']"
+bs,['not_drugs']
+bs,['stimulant']
+bs,['']
+bs,['benzodiazepines']
+bs,['ketamine']
+bs,['opioid_treatment']
+bs,['marijuana']
+bs,"['benzodiazepines', 'not_drugs']"
+bs,"['methamphetamine', 'oxycodone']"
+bs,['marijuana']
+bt,['benzodiazepines']
+bt,['benzodiazepines']
+bt,"['', 'ecstasy', 'inhalants', 'ketamine', 'lsd', 'methamphetamine', 'benzodiazepines', 'not_drugs', 'stimulant']"
+bt,['oxycodone']
+bt,['opioid']
+bu,['']
+bu,['opioid']
+bv,['erectile_dysfunction']
+bw,"['', 'hashish']"
+bw,['oxycodone']
+bx,['cocaine']
+bx,['not_drugs']
+by,"['', 'marijuana', 'psilocybin', 'oxycodone', 'methamphetamine', 'stimulant']"
+by,['oxycodone']
+by,['fentanyl']
+by,['not_drugs']
+by,['not_drugs']
+by,"['benzodiazepines', 'not_drugs']"
+by,['opioid']
+by,['hashish']
+by,['']
+by,['hashish']
+bz,"['cocaine', 'marijuana']"
+bz,['lsd']
+c ,['ecstasy']
+c ,"['benzodiazepines', 'ecstasy', 'ketamine']"
+c ,['ecstasy']
+c ,"['', 'not_drugs']"
+c ,['']
+c ,['methamphetamine']
+c ,['stimulant']
+c ,"['', 'erectile_dysfunction']"
+c ,"['benzodiazepines', 'marijuana']"
+c ,"['ecstasy', 'steroids_and_hormones', 'cocaine', 'oxycodone', 'methamphetamine', 'benzodiazepines', 'erectile_dysfunction', 'stimulant']"
+c ,['cocaine']
+c ,"['', 'psychedelic', 'ketamine', 'cocaine', 'methamphetamine', 'benzodiazepines', 'heroin']"
+c ,"['benzodiazepines', 'cocaine', 'ecstasy', 'marijuana']"
+c ,['heroin']
+c ,['ketamine']
+c0,['hashish']
+c0,['not_drugs']
+c0,"['marijuana', 'not_drugs']"
+c0,"['benzodiazepines', 'marijuana']"
+c1,['not_drugs']
+c1,['']
+c1,"['cocaine', 'opioid']"
+c1,['stimulant']
+c1,"['', 'ecstasy', 'hashish', 'psilocybin', 'cocaine']"
+c1,['not_drugs']
+c2,['cocaine']
+c2,"['', 'not_drugs']"
+c2,"['cocaine', 'marijuana', 'hashish', 'stimulant']"
+c2,['not_drugs']
+c3,['oxycodone']
+c3,['not_drugs']
+c3,['not_drugs']
+c3,"['psilocybin', 'marijuana', 'not_drugs', 'ketamine']"
+c3,['hashish']
+c4,['not_drugs']
+c4,"['lsd', 'opioid_treatment', 'cocaine', 'not_drugs']"
+c4,['cocaine']
+c5,['not_drugs']
+c5,['marijuana']
+c5,"['marijuana', 'not_drugs']"
+c5,['']
+c6,['not_drugs']
+c6,"['psilocybin', 'hashish', 'stimulant']"
+c6,"['methamphetamine', 'stimulant']"
+c6,['cocaine']
+c7,['not_drugs']
+c7,"['', 'cocaine', 'marijuana', 'ecstasy']"
+c7,['ketamine']
+c7,['ketamine']
+c8,['not_drugs']
+c8,['not_drugs']
+c8,"['psilocybin', 'marijuana']"
+c8,['cocaine']
+c9,['marijuana']
+c9,['marijuana']
+c9,"['marijuana', 'not_drugs']"
+c9,"['', 'marijuana']"
+c9,['not_drugs']
+c9,['ecstasy']
+cG,['heroin']
+ca,['psilocybin']
+ca,['']
+ca,"['cocaine', 'oxycodone', 'methamphetamine', 'benzodiazepines', 'heroin']"
+ca,['not_drugs']
+ca,['marijuana']
+cb,['marijuana']
+cc,['lsd']
+cc,"['ecstasy', 'psychedelic', 'stimulant']"
+cd,['ecstasy']
+cd,"['marijuana', 'dmt', 'ketamine', 'lsd', 'not_drugs']"
+cd,"['benzodiazepines', 'marijuana']"
+cd,['methamphetamine']
+cd,"['opioid', 'cocaine', 'marijuana', 'oxycodone']"
+ce,"['marijuana', 'hashish', 'cocaine', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+ce,['']
+ce,['psilocybin']
+ce,['ecstasy']
+ce,['marijuana']
+ce,['opioid']
+ce,['cocaine']
+ce,"['marijuana', 'hashish', 'not_drugs']"
+ce,['cocaine']
+ce,['methamphetamine']
+cf,['ecstasy']
+cf,"['lsd', 'not_drugs']"
+cg,['cocaine']
+cg,"['cocaine', 'marijuana', 'dmt']"
+cg,['benzodiazepines']
+ch,"['lsd', '', 'ecstasy', 'not_drugs']"
+ch,['not_drugs']
+ch,"['', 'ecstasy']"
+ci,"['opioid', 'oxycodone']"
+ci,"['marijuana', 'opioid']"
+ci,"['cocaine', 'ketamine']"
+ci,"['', 'methamphetamine', 'oxycodone']"
+ci,['ketamine']
+ci,['methamphetamine']
+ci,['not_drugs']
+ck,['']
+ck,"['psilocybin', 'cocaine']"
+ck,"['', 'marijuana', 'not_drugs']"
+ck,['not_drugs']
+cl,"['lsd', 'benzodiazepines', 'erectile_dysfunction']"
+cl,['benzodiazepines']
+cl,['marijuana']
+cm,"['marijuana', 'hashish']"
+cm,"['ketamine', 'ecstasy', 'methamphetamine', 'heroin']"
+cn,['opioid']
+cn,['oxycodone']
+cn,['opioid_treatment']
+cn,['cocaine']
+cn,"['', 'not_drugs']"
+cn,"['marijuana', 'hashish', 'lsd', 'methamphetamine', 'benzodiazepines', 'opioid_treatment']"
+cn,"['', 'ecstasy', 'not_drugs', 'ketamine']"
+co,['cocaine']
+co,['stimulant']
+co,"['lsd', 'marijuana']"
+co,['marijuana']
+co,"['ecstasy', 'psychedelic', 'cocaine', 'benzodiazepines', 'not_drugs']"
+co,['psilocybin']
+co,"['marijuana', 'hashish']"
+cp,"['methamphetamine', 'stimulant']"
+cp,"['lsd', 'not_drugs']"
+cp,['ecstasy']
+cp,['inhalants']
+cq,['marijuana']
+cr,['stimulant']
+cr,['benzodiazepines']
+cr,"['dmt', 'cocaine', 'lsd', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+cr,['']
+cr,['ketamine']
+cr,['prescription']
+cr,['not_drugs']
+cr,['cocaine']
+cr,['not_drugs']
+cr,"['', 'ecstasy', 'marijuana', 'ketamine', 'dissociative', 'lsd', 'not_drugs', 'stimulant']"
+cs,['']
+cs,['']
+cs,['not_drugs']
+cs,['']
+cs,['']
+cs,"['cocaine', 'marijuana', 'oxycodone', 'ecstasy']"
+cs,['ecstasy']
+cs,"['methamphetamine', 'cocaine', 'marijuana', 'not_drugs']"
+cs,['benzodiazepines']
+cs,['ecstasy']
+cs,['oxycodone']
+ct,"['not_drugs', 'stimulant']"
+ct,['']
+ct,['']
+ct,['lsd']
+ct,"['marijuana', 'ecstasy', 'ketamine', 'oxycodone', 'not_drugs']"
+ct,['marijuana']
+ct,['cocaine']
+ct,['benzodiazepines']
+ct,"['', 'opioid']"
+cu,['opioid']
+cu,"['marijuana', 'oxycodone', 'erectile_dysfunction']"
+cv,"['', 'not_drugs']"
+cw,['ecstasy']
+cw,['oxycodone']
+cx,"['opioid', 'benzodiazepines']"
+cx,['not_drugs']
+cx,['ketamine']
+cy,['oxycodone']
+cy,['not_drugs']
+cy,['not_drugs']
+cy,"['methamphetamine', 'marijuana', 'oxycodone', 'hashish']"
+cy,['ketamine']
+d ,"['marijuana', 'prescription']"
+d ,"['benzodiazepines', 'oxycodone', 'erectile_dysfunction']"
+d ,"['ecstasy', 'ketamine', 'cocaine', 'lsd', 'methamphetamine', 'benzodiazepines', 'stimulant', 'heroin']"
+d ,"['methamphetamine', 'benzodiazepines', 'erectile_dysfunction']"
+d ,['ecstasy']
+d ,['methamphetamine']
+d ,"['opioid', 'marijuana', 'ecstasy']"
+d ,"['cocaine', 'ecstasy', 'heroin']"
+d ,['marijuana']
+d ,"['lsd', 'cocaine', 'benzodiazepines']"
+d ,"['cocaine', 'stimulant']"
+d ,"['marijuana', 'hashish', 'cocaine', 'methamphetamine', 'heroin']"
+d ,['heroin']
+d ,['cocaine']
+d ,"['marijuana', 'ecstasy']"
+d ,"['cocaine', 'benzodiazepines', 'opioid_treatment']"
+d ,"['ecstasy', 'ketamine']"
+d ,['cocaine']
+d ,"['methamphetamine', 'cocaine']"
+d ,"['uncategorizable_listing', 'cocaine', 'ecstasy', 'ketamine']"
+d ,"['cocaine', 'ecstasy', 'erectile_dysfunction']"
+d ,"['cocaine', 'ecstasy']"
+d ,"['', 'ecstasy', 'marijuana', 'hashish', 'ketamine', 'cocaine', 'lsd', 'erectile_dysfunction', 'stimulant']"
+d-,"['benzodiazepines', 'not_drugs']"
+d0,['marijuana']
+d0,['lsd']
+d0,['methamphetamine']
+d0,"['marijuana', 'ecstasy', 'steroids_and_hormones', 'psilocybin', 'cocaine']"
+d0,"['marijuana', 'hashish', 'not_drugs']"
+d0,['not_drugs']
+d1,['methamphetamine']
+d1,"['', 'not_drugs']"
+d1,"['lsd', 'cocaine', 'marijuana', 'ketamine']"
+d1,['not_drugs']
+d1,"['', 'stimulant']"
+d1,['not_drugs']
+d1,['ketamine']
+d1,['cocaine']
+d2,['']
+d2,['not_drugs']
+d2,['not_drugs']
+d2,['marijuana']
+d2,['not_drugs']
+d2,['ecstasy']
+d2,"['marijuana', 'dmt', 'psychedelic']"
+d3,['not_drugs']
+d3,['hashish']
+d3,"['', 'marijuana', 'cocaine', 'oxycodone', 'lsd', 'benzodiazepines', 'not_drugs']"
+d3,['not_drugs']
+d3,['not_drugs']
+d3,['ketamine']
+d3,['not_drugs']
+d3,['ketamine']
+d4,"['ecstasy', 'not_drugs']"
+d4,['benzodiazepines']
+d4,['heroin']
+d4,"['', 'methamphetamine', 'cocaine', 'ecstasy']"
+d5,['heroin']
+d5,"['', 'not_drugs']"
+d5,"['psilocybin', 'marijuana', 'inhalants']"
+d5,['opioid_treatment']
+d6,['not_drugs']
+d6,['not_drugs']
+d6,"['psilocybin', 'methamphetamine', 'cocaine', 'ecstasy']"
+d6,"['marijuana', 'not_drugs']"
+d6,['benzodiazepines']
+d6,['cocaine']
+d7,['ketamine']
+d7,"['lsd', 'ecstasy', 'not_drugs']"
+d7,['cocaine']
+d7,"['', 'cocaine', 'marijuana', 'hashish']"
+d8,['ecstasy']
+d8,['not_drugs']
+d8,"['benzodiazepines', 'cocaine', 'marijuana']"
+d8,"['', 'methamphetamine', 'ecstasy', 'not_drugs']"
+d8,['hashish']
+d8,['stimulant']
+d9,"['psilocybin', 'methamphetamine', 'marijuana', 'ecstasy']"
+d9,"['lsd', 'ecstasy', 'dmt', 'not_drugs']"
+d9,['']
+d9,['psilocybin']
+d9,"['ecstasy', 'not_drugs', 'stimulant']"
+d9,"['marijuana', 'hashish']"
+d9,['psilocybin']
+dG,['not_drugs']
+dZ,['not_drugs']
+da,['']
+da,['']
+da,"['', 'marijuana', 'hashish', 'stimulant']"
+da,['ecstasy']
+da,['not_drugs']
+da,['not_drugs']
+db,"['lsd', 'cocaine']"
+db,"['psilocybin', 'marijuana', 'not_drugs', 'ecstasy']"
+dd,"['lsd', 'ecstasy', 'not_drugs']"
+dd,['stimulant']
+dd,"['', 'marijuana', 'ecstasy', 'hashish']"
+de,['oxycodone']
+de,"['', 'marijuana', 'ecstasy', 'hashish', 'dmt', 'psilocybin', 'fentanyl', 'cocaine', 'benzodiazepines', 'not_drugs']"
+de,['']
+de,"['', 'ecstasy', 'marijuana', 'dmt', 'hashish', 'psilocybin', 'lsd', 'benzodiazepines', 'not_drugs']"
+de,['cocaine']
+de,['benzodiazepines']
+dg,['not_drugs']
+dg,"['', 'cocaine', 'hashish', 'not_drugs']"
+dg,['']
+dg,['stimulant']
+dg,"['psilocybin', 'erectile_dysfunction']"
+dg,['ecstasy']
+dg,['cocaine']
+dh,['']
+dh,['not_drugs']
+dh,"['marijuana', 'cocaine', 'benzodiazepines', 'oxycodone']"
+di,['stimulant']
+di,['not_drugs']
+di,"['cocaine', 'marijuana']"
+di,['not_drugs']
+dk,['marijuana']
+dl,"['methamphetamine', 'marijuana', 'ecstasy']"
+dl,['cocaine']
+dl,['not_drugs']
+dm,"['', 'cocaine', 'marijuana', 'not_drugs']"
+dm,['stimulant']
+dm,['cocaine']
+dn,['not_drugs']
+dn,"['', 'marijuana']"
+dn,['']
+dn,"['benzodiazepines', 'not_drugs']"
+dn,['']
+dn,['not_drugs']
+dn,"['', 'cocaine', 'not_drugs']"
+dn,['marijuana']
+dn,['oxycodone']
+dn,['marijuana']
+dn,['not_drugs']
+dn,"['marijuana', 'ecstasy', 'dissociative', 'fentanyl', 'oxycodone', 'lsd', 'not_drugs', 'stimulant']"
+do,['oxycodone']
+do,['cocaine']
+do,['ketamine']
+do,"['fentanyl', 'marijuana']"
+do,"['benzodiazepines', 'marijuana', 'hashish']"
+do,['ecstasy']
+do,['oxycodone']
+do,"['cocaine', 'hashish']"
+do,"['', 'methamphetamine', 'not_drugs']"
+dp,['not_drugs']
+dp,['ecstasy']
+dp,['not_drugs']
+dp,['not_drugs']
+dr,"['', 'benzodiazepines', 'marijuana', 'stimulant']"
+dr,['hashish']
+dr,['ecstasy']
+dr,['cocaine']
+dr,"['cocaine', 'not_drugs']"
+dr,['stimulant']
+ds,['opioid']
+ds,"['', 'marijuana', 'not_drugs', 'ketamine']"
+ds,['marijuana']
+ds,['']
+ds,['ecstasy']
+ds,['benzodiazepines']
+ds,['stimulant']
+ds,['not_drugs']
+ds,"['cocaine', 'marijuana', 'not_drugs', 'ketamine']"
+ds,['not_drugs']
+ds,['ecstasy']
+ds,"['', 'opioid']"
+dt,['cocaine']
+dt,"['marijuana', 'ecstasy', 'dmt', 'psychedelic', 'cocaine', 'oxycodone', 'heroin']"
+dt,['benzodiazepines']
+dt,"['', 'marijuana', 'ecstasy', 'methamphetamine', 'not_drugs']"
+dt,['marijuana']
+du,['not_drugs']
+du,['benzodiazepines']
+dv,['not_drugs']
+dw,['not_drugs']
+dw,['marijuana']
+dx,"['psilocybin', 'cocaine', 'benzodiazepines']"
+dx,['marijuana']
+dx,"['psilocybin', 'methamphetamine', 'marijuana', 'stimulant']"
+dy,['marijuana']
+dy,['marijuana']
+dy,"['not_drugs', 'stimulant']"
+dy,['oxycodone']
+dy,"['not_drugs', 'ketamine']"
+dy,"['marijuana', 'ecstasy', 'cocaine', 'oxycodone', 'benzodiazepines', 'stimulant']"
+dy,['benzodiazepines']
+dy,['']
+dy,['cocaine']
+dz,"['', 'marijuana', 'ecstasy', 'cocaine', 'not_drugs']"
+dz,['marijuana']
+dz,['marijuana']
+e ,['methamphetamine']
+e ,['ecstasy']
+e ,['ecstasy']
+e ,['marijuana']
+e ,['marijuana']
+e ,"['', 'heroin']"
+e ,['ecstasy']
+e ,"['', 'ecstasy', 'erectile_dysfunction', 'stimulant']"
+e ,"['cocaine', 'ecstasy']"
+e ,['ecstasy']
+e ,['ketamine']
+e ,['marijuana']
+e0,['hashish']
+e0,['hashish']
+e0,['lsd']
+e0,['lsd']
+e0,"['methamphetamine', 'not_drugs']"
+e0,['stimulant']
+e1,['not_drugs']
+e1,['stimulant']
+e1,"['marijuana', 'heroin']"
+e1,"['benzodiazepines', 'marijuana']"
+e2,"['marijuana', 'psychedelic']"
+e2,"['', 'not_drugs']"
+e3,['not_drugs']
+e3,['oxycodone']
+e3,"['', 'oxycodone']"
+e3,['oxycodone']
+e3,"['cocaine', 'marijuana']"
+e3,"['cocaine', 'oxycodone']"
+e5,['methamphetamine']
+e5,['cocaine']
+e6,['heroin']
+e6,['cocaine']
+e7,"['', 'marijuana', 'dmt', 'not_drugs']"
+e7,"['marijuana', 'not_drugs']"
+e8,['']
+e8,['oxycodone']
+e8,['ketamine']
+e9,['marijuana']
+e9,"['steroids_and_hormones', 'cocaine', 'marijuana', 'stimulant']"
+eP,['not_drugs']
+ea,['not_drugs']
+ea,['']
+eb,"['ecstasy', 'psychedelic']"
+ec,['not_drugs']
+ec,['ecstasy']
+ed,['psychedelic']
+ed,['']
+ed,['ketamine']
+ee,['methamphetamine']
+ee,"['cocaine', 'marijuana', 'oxycodone', 'ecstasy']"
+ee,"['', 'cocaine', 'not_drugs', 'lsd']"
+ef,['not_drugs']
+ef,['marijuana']
+eg,['lsd']
+eg,['ecstasy']
+eg,['']
+ei,"['marijuana', 'not_drugs']"
+el,['lsd']
+el,['oxycodone']
+el,['marijuana']
+el,['ecstasy']
+el,['not_drugs']
+em,"['erectile_dysfunction', 'ketamine']"
+em,['cocaine']
+en,['not_drugs']
+en,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'methamphetamine']"
+en,['ecstasy']
+en,['heroin']
+eo,['oxycodone']
+eo,['not_drugs']
+eo,['not_drugs']
+er,"['lsd', 'cocaine']"
+er,['marijuana']
+er,['']
+er,"['marijuana', 'hashish']"
+er,['not_drugs']
+er,['not_drugs']
+es,"['methamphetamine', 'ecstasy']"
+es,['']
+es,"['ecstasy', 'heroin']"
+es,"['', 'marijuana', 'fentanyl', 'ketamine']"
+et,"['cocaine', 'hashish']"
+et,"['cocaine', 'marijuana', 'hashish']"
+et,"['marijuana', 'not_drugs']"
+et,['hashish']
+et,"['', 'ecstasy']"
+eu,['stimulant']
+ex,['not_drugs']
+ex,['marijuana']
+ex,['not_drugs']
+ey,['marijuana']
+ey,['not_drugs']
+ey,"['oxycodone', 'heroin']"
+ez,['not_drugs']
+f ,"['', 'marijuana', 'hashish']"
+f ,['ecstasy']
+f ,['dmt']
+f ,"['ecstasy', 'stimulant']"
+f ,"['methamphetamine', 'ecstasy', 'benzodiazepines']"
+f ,"['marijuana', 'ecstasy']"
+f ,"['ecstasy', 'ketamine']"
+f ,"['methamphetamine', 'marijuana']"
+f ,['hashish']
+f ,"['ecstasy', 'ketamine']"
+f-,['ecstasy']
+f0,"['', 'cocaine', 'oxycodone']"
+f0,['not_drugs']
+f1,['cocaine']
+f1,['erectile_dysfunction']
+f1,['not_drugs']
+f2,['hashish']
+f2,"['not_drugs', 'inhalants']"
+f2,['']
+f2,['psychedelic']
+f2,['not_drugs']
+f2,"['fentanyl', 'cocaine', 'marijuana']"
+f3,"['methamphetamine', 'hashish']"
+f3,"['', 'ecstasy', 'lsd', 'methamphetamine', 'not_drugs']"
+f4,['not_drugs']
+f4,"['cocaine', 'benzodiazepines']"
+f5,['ketamine']
+f5,['marijuana']
+f6,['cocaine']
+f6,"['cocaine', 'ecstasy']"
+f7,['not_drugs']
+f7,"['cocaine', 'not_drugs']"
+f7,"['', 'not_drugs']"
+f7,"['psilocybin', 'benzodiazepines', 'oxycodone', 'stimulant']"
+f8,['not_drugs']
+f9,"['marijuana', 'oxycodone', 'ecstasy']"
+f9,"['', 'marijuana', 'not_drugs']"
+fa,"['marijuana', 'not_drugs']"
+fa,"['ecstasy', 'not_drugs']"
+fb,"['ecstasy', 'ketamine']"
+fb,['methamphetamine']
+fc,['hashish']
+fd,"['lsd', 'marijuana']"
+fd,['not_drugs']
+fd,['hashish']
+fd,['benzodiazepines']
+fd,['cocaine']
+fe,['oxycodone']
+fe,['benzodiazepines']
+fe,['opioid']
+fe,['not_drugs']
+fe,"['opioid_treatment', 'marijuana', 'dissociative', 'cocaine', 'oxycodone', 'methamphetamine', 'not_drugs', 'heroin']"
+fe,['stimulant']
+fe,['ecstasy']
+fe,"['lsd', 'not_drugs', 'dmt', 'ketamine']"
+ff,"['opioid', 'marijuana']"
+fg,['marijuana']
+fg,"['marijuana', 'not_drugs']"
+fg,['cocaine']
+fh,['not_drugs']
+fh,['']
+fh,"['ecstasy', 'inhalants', 'ketamine', 'cocaine', 'stimulant']"
+fi,['not_drugs']
+fi,['not_drugs']
+fk,"['', 'not_drugs']"
+fl,"['marijuana', 'not_drugs']"
+fl,"['lsd', 'methamphetamine', 'marijuana']"
+fm,['not_drugs']
+fm,['not_drugs']
+fm,"['ecstasy', 'oxycodone']"
+fn,"['marijuana', 'ecstasy', 'cocaine', 'oxycodone', 'methamphetamine']"
+fn,['marijuana']
+fn,['ketamine']
+fn,"['', 'ecstasy']"
+fn,"['dmt', 'not_drugs']"
+fn,"['cocaine', 'ecstasy']"
+fo,['cocaine']
+fo,['']
+fo,['benzodiazepines']
+fo,"['', 'steroids_and_hormones', 'ketamine']"
+fo,['stimulant']
+fp,['']
+fr,['cocaine']
+fr,['heroin']
+fr,"['marijuana', 'ecstasy', 'psychedelic', 'cocaine', 'methamphetamine', 'stimulant']"
+fr,"['marijuana', 'cocaine', 'lsd', 'methamphetamine', 'opioid_treatment', 'heroin']"
+fr,"['lsd', 'ecstasy']"
+fr,['ecstasy']
+fr,['not_drugs']
+fr,['']
+fs,['stimulant']
+fs,"['not_drugs', 'ketamine']"
+fs,"['marijuana', 'benzodiazepines', 'psychedelic', 'ketamine']"
+fs,['marijuana']
+fs,['oxycodone']
+ft,"['stimulant', 'marijuana', 'opioid_treatment', 'ecstasy']"
+ft,['oxycodone']
+ft,"['psychedelic', 'ketamine', 'lsd', 'not_drugs', 'stimulant']"
+ft,['opioid']
+ft,['psilocybin']
+ft,['hashish']
+fu,['psychedelic']
+fu,['oxycodone']
+fu,"['marijuana', 'cocaine', 'ecstasy', 'hashish']"
+fu,['']
+fw,"['hashish', 'stimulant']"
+fw,"['', 'not_drugs']"
+fx,"['cocaine', 'not_drugs']"
+fx,['ecstasy']
+fx,['marijuana']
+fx,['not_drugs']
+fx,['not_drugs']
+fy,['marijuana']
+fy,"['marijuana', 'ecstasy', 'hashish', 'methamphetamine', 'heroin']"
+fy,"['marijuana', 'ecstasy', 'lsd', 'not_drugs', 'stimulant']"
+fy,"['opioid', 'ecstasy']"
+fz,['marijuana']
+fz,['not_drugs']
+fz,['ecstasy']
+g ,['ecstasy']
+g ,['ecstasy']
+g ,['not_drugs']
+g ,"['marijuana', 'erectile_dysfunction']"
+g ,['not_drugs']
+g ,"['cocaine', 'marijuana', 'prescription']"
+g ,['ecstasy']
+g ,['marijuana']
+g ,"['cocaine', 'ecstasy']"
+g ,['ecstasy']
+g ,"['ecstasy', 'ketamine']"
+g ,['methamphetamine']
+g ,['marijuana']
+g ,"['cocaine', 'marijuana']"
+g0,"['benzodiazepines', 'cocaine', 'marijuana', 'not_drugs']"
+g0,"['ecstasy', 'ketamine']"
+g0,"['', 'marijuana', 'not_drugs']"
+g0,['benzodiazepines']
+g0,['oxycodone']
+g1,['benzodiazepines']
+g1,['psilocybin']
+g1,"['ecstasy', 'not_drugs']"
+g1,['ecstasy']
+g2,['benzodiazepines']
+g2,"['lsd', 'not_drugs', 'ketamine']"
+g2,"['', 'opioid', 'marijuana', 'cocaine', 'lsd', 'not_drugs']"
+g2,['opioid']
+g2,['ecstasy']
+g2,['not_drugs']
+g3,['marijuana']
+g3,"['cocaine', 'marijuana', 'not_drugs']"
+g4,['ecstasy']
+g4,['']
+g4,['not_drugs']
+g5,"['marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'oxycodone', 'methamphetamine']"
+g5,['not_drugs']
+g5,"['marijuana', 'oxycodone']"
+g6,"['lsd', 'ecstasy', 'not_drugs']"
+g7,['not_drugs']
+g7,['marijuana']
+g7,['heroin']
+g8,['marijuana']
+g8,"['cocaine', 'not_drugs']"
+g8,['benzodiazepines']
+g8,['ecstasy']
+g8,['not_drugs']
+g9,"['cocaine', 'ecstasy']"
+g9,['opioid_treatment']
+g9,"['marijuana', 'ecstasy', 'not_drugs']"
+g9,"['ecstasy', 'psilocybin', 'oxycodone', 'lsd', 'stimulant']"
+gD,"['', 'benzodiazepines']"
+ga,['']
+ga,['not_drugs']
+ga,['marijuana']
+ga,"['ecstasy', 'ketamine']"
+ga,"['psilocybin', 'marijuana']"
+gd,['psilocybin']
+gd,['stimulant']
+gd,['not_drugs']
+gd,"['ketamine', 'cocaine', 'heroin']"
+ge,['marijuana']
+ge,['not_drugs']
+ge,"['benzodiazepines', 'marijuana']"
+ge,['opioid']
+ge,"['', 'ecstasy', 'hashish', 'cocaine', 'not_drugs']"
+ge,"['steroids_and_hormones', 'cocaine', 'marijuana']"
+ge,['marijuana']
+gf,['stimulant']
+gf,['cocaine']
+gg,['oxycodone']
+gg,['ketamine']
+gg,['marijuana']
+gg,['marijuana']
+gh,"['marijuana', 'hashish', 'not_drugs']"
+gh,['cocaine']
+gh,['stimulant']
+gi,"['', 'heroin']"
+gi,['oxycodone']
+gi,['not_drugs']
+gk,['cocaine']
+gk,"['benzodiazepines', 'not_drugs']"
+gl,['not_drugs']
+gl,['methamphetamine']
+gl,['oxycodone']
+gm,['not_drugs']
+gm,"['lsd', 'ecstasy']"
+gm,"['lsd', 'benzodiazepines']"
+gn,['stimulant']
+gn,['ketamine']
+gn,['not_drugs']
+gn,['marijuana']
+gn,"['methamphetamine', 'marijuana']"
+gn,['marijuana']
+gn,['']
+go,"['cocaine', 'ecstasy']"
+go,['not_drugs']
+go,['not_drugs']
+go,['benzodiazepines']
+go,['ecstasy']
+go,"['', 'not_drugs']"
+go,"['', 'methamphetamine', 'hashish']"
+gp,['marijuana']
+gp,['not_drugs']
+gr,"['', 'not_drugs']"
+gr,['not_drugs']
+gs,['oxycodone']
+gs,['oxycodone']
+gs,"['', 'marijuana', 'ketamine', 'cocaine', 'benzodiazepines']"
+gs,"['marijuana', 'not_drugs']"
+gt,['']
+gt,['ketamine']
+gt,['lsd']
+gt,"['', 'not_drugs']"
+gt,"['methamphetamine', 'marijuana']"
+gu,"['', 'methamphetamine', 'cocaine', 'ecstasy']"
+gu,"['methamphetamine', 'not_drugs']"
+gw,['opioid']
+gw,['not_drugs']
+gy,['ecstasy']
+gy,"['', 'marijuana', 'heroin']"
+gy,['stimulant']
+gy,['oxycodone']
+gy,['not_drugs']
+gz,['dissociative']
+gz,['not_drugs']
+h ,['fentanyl']
+h ,"['', 'ecstasy', 'heroin']"
+h ,['hashish']
+h ,['marijuana']
+h ,"['benzodiazepines', 'marijuana']"
+h ,['cocaine']
+h ,['']
+h ,['prescription']
+h ,['opioid_treatment']
+h0,['ketamine']
+h0,['stimulant']
+h0,"['', 'marijuana', 'hashish', 'lsd', 'not_drugs']"
+h0,"['cocaine', 'marijuana']"
+h1,['marijuana']
+h1,['marijuana']
+h1,['not_drugs']
+h2,['']
+h2,"['cocaine', 'hashish']"
+h2,['not_drugs']
+h2,['not_drugs']
+h2,['ecstasy']
+h2,"['cocaine', 'ecstasy']"
+h2,"['cocaine', 'marijuana', 'hashish']"
+h2,['not_drugs']
+h3,"['marijuana', 'erectile_dysfunction']"
+h3,['not_drugs']
+h3,['opioid_treatment']
+h4,['marijuana']
+h4,['not_drugs']
+h5,['stimulant']
+h5,['not_drugs']
+h5,"['', 'methamphetamine', 'marijuana', 'psychedelic']"
+h6,['oxycodone']
+h6,"['psilocybin', 'cocaine', 'heroin']"
+h6,['not_drugs']
+h7,['erectile_dysfunction']
+h7,['marijuana']
+h7,"['lsd', 'cocaine', 'not_drugs']"
+h8,['benzodiazepines']
+h8,['ecstasy']
+h8,['not_drugs']
+h9,['benzodiazepines']
+h9,"['methamphetamine', 'cocaine', 'marijuana']"
+h9,['erectile_dysfunction']
+h9,"['', 'cocaine', 'marijuana', 'not_drugs']"
+hG,['cocaine']
+hM,['not_drugs']
+hS,['marijuana']
+ha,['']
+ha,"['ecstasy', 'marijuana', 'cocaine', 'lsd', 'benzodiazepines']"
+ha,"['marijuana', 'not_drugs', 'ketamine']"
+hb,['not_drugs']
+hc,['not_drugs']
+hd,['not_drugs']
+hd,"['marijuana', 'ecstasy', 'fentanyl', 'cocaine', 'oxycodone', 'not_drugs']"
+he,"['', 'marijuana', 'ecstasy', 'hashish', 'cocaine', 'benzodiazepines']"
+he,"['marijuana', 'ecstasy', 'lsd', 'methamphetamine', 'not_drugs']"
+he,['marijuana']
+he,['ketamine']
+hf,['erectile_dysfunction']
+hg,['not_drugs']
+hg,"['hashish', 'not_drugs']"
+hg,"['marijuana', 'heroin']"
+hh,['benzodiazepines']
+hh,['benzodiazepines']
+hh,['ecstasy']
+hh,"['marijuana', 'prescription']"
+hi,['marijuana']
+hi,['not_drugs']
+hi,['methamphetamine']
+hk,['not_drugs']
+hk,['marijuana']
+hk,['']
+hl,['not_drugs']
+hl,"['marijuana', 'hashish']"
+hl,['benzodiazepines']
+hm,['not_drugs']
+hm,['ecstasy']
+hn,['marijuana']
+hn,"['psilocybin', 'cocaine', 'marijuana']"
+hn,"['', 'ecstasy', 'dmt', 'lsd', 'not_drugs']"
+hn,['opioid']
+hn,['not_drugs']
+hn,"['', 'oxycodone']"
+hn,"['hashish', 'not_drugs']"
+hn,['stimulant']
+hn,['not_drugs']
+ho,['opioid']
+ho,['ketamine']
+ho,['cocaine']
+ho,['not_drugs']
+hp,"['cocaine', 'benzodiazepines']"
+hr,['marijuana']
+hr,['not_drugs']
+hr,"['cocaine', 'ecstasy']"
+hr,"['lsd', '', 'cocaine', 'not_drugs']"
+hr,['lsd']
+hr,"['', 'methamphetamine', 'opioid_treatment', 'ketamine']"
+hr,"['psychedelic', 'stimulant']"
+hs,['oxycodone']
+hs,['']
+hs,"['', 'marijuana', 'hashish', 'lsd', 'not_drugs']"
+hs,"['methamphetamine', 'cocaine', 'opioid']"
+hs,['']
+hs,['not_drugs']
+ht,"['', 'marijuana']"
+ht,['lsd']
+ht,"['', 'hashish']"
+ht,['marijuana']
+ht,['not_drugs']
+hu,['ketamine']
+hw,['cocaine']
+hw,['not_drugs']
+hx,['psilocybin']
+hy,['not_drugs']
+hz,['']
+hz,['not_drugs']
+i ,"['methamphetamine', 'benzodiazepines', 'ecstasy', 'ketamine']"
+i ,"['lsd', '', 'ecstasy']"
+i ,['cocaine']
+i ,['stimulant']
+i ,['stimulant']
+i ,['methamphetamine']
+i ,"['steroids_and_hormones', 'erectile_dysfunction']"
+i0,"['', 'opioid', 'not_drugs']"
+i1,['not_drugs']
+i1,['hashish']
+i2,['benzodiazepines']
+i2,"['cocaine', 'hashish']"
+i3,"['marijuana', 'benzodiazepines']"
+i5,['not_drugs']
+i6,['cocaine']
+i6,"['cocaine', 'heroin']"
+i6,['not_drugs']
+i7,['not_drugs']
+i7,['stimulant']
+i8,"['lsd', 'not_drugs']"
+i8,['marijuana']
+i9,"['', 'methamphetamine', 'marijuana', 'hashish']"
+i9,"['lsd', 'benzodiazepines', 'ketamine']"
+ia,"['methamphetamine', 'cocaine', 'not_drugs']"
+id,"['marijuana', 'cocaine', 'methamphetamine', 'not_drugs', 'heroin']"
+id,['']
+id,['marijuana']
+id,['']
+ie,['ecstasy']
+ie,"['marijuana', 'not_drugs']"
+ie,"['', 'marijuana', 'hashish', 'psilocybin', 'fentanyl', 'cocaine', 'methamphetamine']"
+ie,['']
+if,"['methamphetamine', 'marijuana']"
+ig,"['psilocybin', 'oxycodone']"
+ih,['marijuana']
+ih,"['', 'dmt']"
+ih,"['methamphetamine', 'not_drugs']"
+ii,"['methamphetamine', 'marijuana']"
+ii,"['', 'hashish']"
+ii,"['', 'ecstasy', 'not_drugs', 'lsd']"
+ik,"['marijuana', 'cocaine', 'ecstasy', 'stimulant']"
+ik,['not_drugs']
+il,['cocaine']
+il,"['', 'methamphetamine', 'not_drugs', 'lsd']"
+im,['cocaine']
+im,"['', 'ketamine']"
+in,['methamphetamine']
+in,['marijuana']
+in,['marijuana']
+in,"['methamphetamine', 'marijuana', 'hashish', 'not_drugs']"
+io,"['', 'ecstasy', 'ketamine']"
+ip,"['benzodiazepines', 'oxycodone']"
+ip,"['oxycodone', 'hashish']"
+ip,['stimulant']
+ir,['not_drugs']
+ir,['not_drugs']
+is,['ketamine']
+is,"['not_drugs', 'inhalants']"
+is,['not_drugs']
+is,['benzodiazepines']
+it,['cocaine']
+it,['not_drugs']
+iu,"['methamphetamine', 'benzodiazepines']"
+iv,['psilocybin']
+iw,"['', 'marijuana', 'dmt', 'ketamine', 'psilocybin', 'lsd', 'heroin']"
+iw,['marijuana']
+ix,"['methamphetamine', 'benzodiazepines']"
+iy,"['cocaine', 'marijuana']"
+iy,['']
+iy,"['', 'not_drugs']"
+j ,['heroin']
+j ,['marijuana']
+j ,['marijuana']
+j ,['']
+j ,"['cocaine', 'erectile_dysfunction']"
+j ,"['cocaine', 'heroin']"
+j ,['erectile_dysfunction']
+j ,"['', 'marijuana', 'hashish']"
+j ,['ketamine']
+j ,"['', 'ecstasy', 'ketamine', 'cocaine', 'stimulant']"
+j ,"['ecstasy', 'marijuana', 'steroids_and_hormones', 'cocaine', 'stimulant']"
+j ,['oxycodone']
+j ,"['benzodiazepines', 'hashish']"
+j ,['not_drugs']
+j0,"['marijuana', 'psilocybin', 'oxycodone', 'lsd', 'benzodiazepines', 'not_drugs', 'heroin']"
+j0,"['', 'marijuana']"
+j0,['opioid_treatment']
+j0,"['', 'marijuana', 'psilocybin', 'cocaine', 'oxycodone', 'not_drugs']"
+j0,['not_drugs']
+j0,"['', 'ecstasy', 'not_drugs']"
+j0,['']
+j1,"['', 'ketamine', 'cocaine', 'oxycodone', 'not_drugs']"
+j1,"['psilocybin', 'marijuana', 'ecstasy', 'not_drugs']"
+j1,['']
+j1,['opioid']
+j1,['oxycodone']
+j1,['oxycodone']
+j2,['not_drugs']
+j2,['not_drugs']
+j2,"['lsd', 'marijuana', 'ecstasy']"
+j2,['']
+j2,['cocaine']
+j2,['ketamine']
+j3,['marijuana']
+j3,"['', 'marijuana', 'hashish', 'cocaine', 'benzodiazepines', 'stimulant']"
+j3,"['', 'marijuana', 'not_drugs']"
+j3,['not_drugs']
+j3,['not_drugs']
+j3,['cocaine']
+j4,['marijuana']
+j4,"['', 'methamphetamine', 'not_drugs']"
+j5,['erectile_dysfunction']
+j5,['psilocybin']
+j5,"['', 'not_drugs']"
+j6,"['lsd', 'benzodiazepines']"
+j6,['not_drugs']
+j7,"['lsd', 'marijuana', 'not_drugs']"
+j7,"['cocaine', 'marijuana', 'ecstasy']"
+j7,['benzodiazepines']
+j7,['cocaine']
+j8,['oxycodone']
+j8,['methamphetamine']
+j8,['']
+j8,['benzodiazepines']
+j8,"['methamphetamine', 'stimulant', 'ketamine']"
+j8,['not_drugs']
+j8,['not_drugs']
+j9,"['marijuana', 'hashish', 'heroin']"
+j9,['not_drugs']
+j9,"['cocaine', 'ecstasy', 'not_drugs']"
+j9,"['', 'marijuana', 'not_drugs']"
+j9,['opioid']
+j9,['marijuana']
+ja,['opioid']
+ja,['ketamine']
+ja,"['', 'ecstasy', 'not_drugs', 'psychedelic']"
+ja,['']
+jb,['not_drugs']
+jc,['marijuana']
+jd,['not_drugs']
+jd,['not_drugs']
+jd,['marijuana']
+jd,['marijuana']
+jd,"['methamphetamine', 'cocaine', 'oxycodone']"
+je,"['', 'marijuana', 'not_drugs', 'ecstasy']"
+je,"['psilocybin', 'cocaine', 'marijuana', 'lsd']"
+je,"['cocaine', 'marijuana']"
+je,['']
+je,['methamphetamine']
+jf,['']
+jf,['marijuana']
+jg,['hashish']
+jg,"['lsd', 'ecstasy', 'not_drugs']"
+jh,['lsd']
+jh,['lsd']
+jh,['']
+jh,['']
+ji,['dmt']
+ji,['']
+ji,['oxycodone']
+ji,"['lsd', 'psilocybin', 'hashish', 'not_drugs']"
+jk,['']
+jk,['benzodiazepines']
+jk,"['', 'marijuana', 'ecstasy', 'benzodiazepines']"
+jk,"['lsd', 'marijuana', 'ecstasy']"
+jk,['cocaine']
+jk,['benzodiazepines']
+jk,['not_drugs']
+jl,['marijuana']
+jl,['lsd']
+jl,['']
+jl,['methamphetamine']
+jm,['oxycodone']
+jm,"['marijuana', 'oxycodone']"
+jm,['not_drugs']
+jn,['cocaine']
+jn,"['marijuana', 'ecstasy', 'steroids_and_hormones', 'cocaine', 'methamphetamine']"
+jn,['marijuana']
+jn,['not_drugs']
+jn,"['marijuana', 'not_drugs']"
+jn,"['marijuana', 'hashish', 'oxycodone', 'methamphetamine', 'benzodiazepines']"
+jn,['stimulant']
+jo,['not_drugs']
+jo,"['cocaine', 'stimulant']"
+jo,['oxycodone']
+jo,"['methamphetamine', 'benzodiazepines']"
+jq,['']
+jr,"['', 'not_drugs']"
+jr,['benzodiazepines']
+jr,['marijuana']
+jr,['stimulant']
+jr,['marijuana']
+js,['stimulant']
+js,"['marijuana', 'ecstasy', 'psychedelic', 'lsd', 'methamphetamine', 'not_drugs']"
+js,['cocaine']
+js,"['marijuana', 'psilocybin', 'oxycodone', 'methamphetamine', 'stimulant']"
+js,['marijuana']
+js,['oxycodone']
+jt,['opioid']
+jt,['ketamine']
+jt,"['methamphetamine', 'marijuana']"
+jt,"['dmt', 'not_drugs']"
+jt,['benzodiazepines']
+jv,['lsd']
+jw,['marijuana']
+jx,['not_drugs']
+jy,['']
+jy,['marijuana']
+jy,['']
+jy,"['', 'not_drugs']"
+jy,['stimulant']
+jy,['oxycodone']
+jy,['']
+jz,"['cocaine', 'marijuana']"
+jz,"['', 'not_drugs', 'ketamine']"
+jz,['cocaine']
+k ,"['methamphetamine', 'marijuana']"
+k ,['marijuana']
+k ,['ecstasy']
+k ,"['', 'ecstasy', 'marijuana', 'hashish', 'ketamine', 'cocaine', 'lsd', 'stimulant']"
+k ,['fentanyl']
+k ,"['marijuana', 'ecstasy']"
+k ,"['cocaine', 'marijuana']"
+k ,['marijuana']
+k ,['methamphetamine']
+k ,"['marijuana', 'ecstasy', 'cocaine', 'lsd', 'erectile_dysfunction', 'stimulant']"
+k ,"['cocaine', 'heroin']"
+k ,['lsd']
+k ,"['', 'not_drugs', 'heroin']"
+k-,"['ecstasy', 'ketamine']"
+k0,"['', 'dmt', 'psilocybin', 'lsd', 'not_drugs']"
+k0,['opioid']
+k0,"['steroids_and_hormones', 'cocaine']"
+k0,['not_drugs']
+k1,"['marijuana', 'dmt', 'not_drugs']"
+k1,"['', 'cocaine', 'marijuana', 'ecstasy']"
+k1,['hashish']
+k1,['not_drugs']
+k2,['opioid']
+k2,"['lsd', 'not_drugs']"
+k3,['not_drugs']
+k4,['not_drugs']
+k4,['']
+k4,"['not_drugs', 'dmt', 'ketamine']"
+k5,['marijuana']
+k5,['not_drugs']
+k6,['not_drugs']
+k6,"['marijuana', 'cocaine', 'ecstasy', 'hashish']"
+k7,['cocaine']
+k7,"['lsd', 'opioid', 'not_drugs']"
+k7,['oxycodone']
+k8,['benzodiazepines']
+k8,['not_drugs']
+k8,"['', 'methamphetamine', 'ecstasy']"
+k9,"['marijuana', 'ecstasy', 'cocaine', 'not_drugs', 'heroin']"
+k9,"['', 'ecstasy', 'psychedelic', 'psilocybin', 'benzodiazepines', 'not_drugs']"
+k9,['']
+kS,['opioid']
+ka,"['cocaine', 'not_drugs']"
+ka,['opioid']
+ka,['marijuana']
+ka,"['lsd', 'cocaine', 'marijuana', 'dmt']"
+kc,['marijuana']
+kc,['not_drugs']
+kd,"['methamphetamine', 'marijuana']"
+kd,"['', 'not_drugs']"
+ke,"['', 'not_drugs']"
+ke,['oxycodone']
+ke,"['ecstasy', 'marijuana', 'ketamine', 'not_drugs', 'heroin']"
+ke,['ecstasy']
+kf,['not_drugs']
+kg,['hashish']
+kg,['marijuana']
+kg,['ecstasy']
+kg,"['', 'not_drugs']"
+kh,"['marijuana', 'not_drugs', 'ecstasy']"
+kh,"['', 'marijuana']"
+ki,['marijuana']
+ki,['']
+ki,"['lsd', 'marijuana', 'psychedelic', 'ketamine']"
+kj,['marijuana']
+kk,['stimulant']
+kk,"['opioid_treatment', 'marijuana', 'not_drugs']"
+kk,"['', 'oxycodone']"
+kk,['not_drugs']
+kk,['marijuana']
+kl,['cocaine']
+kl,"['methamphetamine', 'marijuana']"
+kl,"['methamphetamine', 'marijuana', 'not_drugs', 'ketamine']"
+kn,"['lsd', 'hashish']"
+kn,"['lsd', 'not_drugs']"
+kn,['']
+kn,['cocaine']
+ko,['ecstasy']
+ko,"['marijuana', 'not_drugs']"
+ko,"['marijuana', 'not_drugs', 'stimulant']"
+kp,"['lsd', 'ecstasy']"
+kr,"['marijuana', 'not_drugs']"
+kr,['lsd']
+kr,['not_drugs']
+kr,['not_drugs']
+kr,['psilocybin']
+ks,"['', 'not_drugs']"
+ks,['']
+kt,['oxycodone']
+kt,['not_drugs']
+kt,['opioid_treatment']
+kt,['not_drugs']
+ku,"['', 'not_drugs']"
+kv,['hashish']
+kw,['marijuana']
+ky,['cocaine']
+ky,['']
+ky,"['marijuana', 'not_drugs']"
+ky,"['', 'marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'methamphetamine']"
+ky,['']
+ky,['']
+l ,['cocaine']
+l ,['lsd']
+l ,"['', 'ecstasy', 'erectile_dysfunction']"
+l ,"['opioid', 'methamphetamine', 'ecstasy', 'benzodiazepines']"
+l ,"['methamphetamine', 'ecstasy']"
+l ,"['ecstasy', 'ketamine']"
+l ,"['lsd', 'dmt']"
+l ,"['methamphetamine', 'heroin']"
+l ,['stimulant']
+l ,['marijuana']
+l ,['marijuana']
+l ,"['marijuana', 'erectile_dysfunction']"
+l ,['marijuana']
+l0,['not_drugs']
+l0,['methamphetamine']
+l0,['ecstasy']
+l0,"['methamphetamine', 'cocaine']"
+l0,"['marijuana', 'ecstasy', 'oxycodone', 'benzodiazepines', 'not_drugs', 'stimulant', 'heroin']"
+l0,['opioid_treatment']
+l1,"['opioid', 'oxycodone']"
+l1,['not_drugs']
+l1,"['', 'methamphetamine']"
+l1,['ketamine']
+l1,"['opioid_treatment', 'stimulant']"
+l1,"['', 'marijuana', 'ecstasy', 'psilocybin', 'cocaine']"
+l1,"['', 'not_drugs']"
+l2,['oxycodone']
+l2,['not_drugs']
+l2,['fentanyl']
+l2,['not_drugs']
+l2,['']
+l3,"['oxycodone', 'erectile_dysfunction']"
+l3,"['methamphetamine', 'marijuana']"
+l3,['oxycodone']
+l3,['not_drugs']
+l3,"['methamphetamine', 'marijuana', 'heroin']"
+l4,['marijuana']
+l4,"['ecstasy', 'not_drugs']"
+l4,['ecstasy']
+l4,['not_drugs']
+l5,['marijuana']
+l5,['not_drugs']
+l5,['cocaine']
+l5,['psilocybin']
+l6,"['', 'ecstasy', 'marijuana', 'cocaine', 'lsd', 'not_drugs']"
+l6,"['marijuana', 'ecstasy']"
+l7,"['marijuana', 'not_drugs']"
+l7,"['marijuana', 'not_drugs']"
+l7,['marijuana']
+l8,['marijuana']
+l8,['not_drugs']
+l8,"['', 'marijuana', 'opioid', 'fentanyl', 'methamphetamine', 'benzodiazepines']"
+l9,['stimulant']
+l9,"['', 'not_drugs']"
+l9,['']
+la,['']
+la,['dmt']
+la,"['marijuana', 'ecstasy', 'hashish', 'ketamine', 'benzodiazepines']"
+la,['not_drugs']
+la,['marijuana']
+lb,['marijuana']
+ld,['not_drugs']
+ld,"['', 'hashish', 'ketamine', 'cocaine', 'lsd']"
+ld,"['', 'marijuana', 'ecstasy', 'ketamine', 'cocaine', 'opioid_treatment']"
+ld,"['lsd', 'hashish', 'not_drugs']"
+le,['']
+le,"['ecstasy', 'marijuana', 'dmt', 'ketamine', 'psilocybin', 'cocaine', 'oxycodone', 'not_drugs']"
+le,['hashish']
+le,"['', 'opioid_treatment']"
+le,['cocaine']
+le,['marijuana']
+le,"['methamphetamine', 'ecstasy', 'dmt', 'not_drugs']"
+le,['']
+le,"['methamphetamine', 'oxycodone']"
+lg,['benzodiazepines']
+lg,"['cocaine', 'ketamine']"
+lg,"['marijuana', 'not_drugs']"
+lh,['benzodiazepines']
+lh,['oxycodone']
+lh,['not_drugs']
+li,['']
+li,['ketamine']
+li,['stimulant']
+li,"['psilocybin', 'marijuana', 'ecstasy']"
+li,"['', 'not_drugs']"
+lk,['marijuana']
+lk,['not_drugs']
+lk,"['cocaine', 'ecstasy', 'stimulant']"
+ll,['oxycodone']
+ll,"['cocaine', 'ecstasy', 'stimulant']"
+ll,"['', 'marijuana', 'ecstasy', 'lsd', 'methamphetamine', 'benzodiazepines', 'not_drugs', 'heroin']"
+ll,['ecstasy']
+ln,['not_drugs']
+ln,"['methamphetamine', 'not_drugs']"
+ln,['opioid']
+ln,['ecstasy']
+ln,['not_drugs']
+ln,"['', 'marijuana', 'stimulant']"
+lo,['stimulant']
+lo,['opioid']
+lo,"['cocaine', 'marijuana', 'hashish']"
+lo,['oxycodone']
+lo,"['methamphetamine', 'marijuana']"
+lo,['not_drugs']
+lp,['benzodiazepines']
+lq,['psychedelic']
+lr,['lsd']
+lr,['not_drugs']
+lr,['erectile_dysfunction']
+lr,['stimulant']
+lr,['marijuana']
+lr,['not_drugs']
+lr,"['', 'benzodiazepines', 'not_drugs']"
+ls,['oxycodone']
+ls,"['', 'ecstasy', 'marijuana', 'dmt', 'hashish', 'ketamine', 'fentanyl', 'dissociative', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs', 'stimulant']"
+ls,['marijuana']
+ls,"['marijuana', 'hashish', 'cocaine', 'lsd', 'methamphetamine']"
+lt,['marijuana']
+lt,['not_drugs']
+lu,"['', 'marijuana']"
+lw,['benzodiazepines']
+lw,['ecstasy']
+ly,['opioid_treatment']
+ly,['not_drugs']
+ly,['marijuana']
+ly,['']
+ly,['marijuana']
+ly,['not_drugs']
+ly,['benzodiazepines']
+ly,['ecstasy']
+lz,['ecstasy']
+lz,['not_drugs']
+m ,"['cocaine', 'marijuana', 'hashish']"
+m ,"['', 'benzodiazepines']"
+m ,['cocaine']
+m ,['marijuana']
+m ,"['', 'ecstasy']"
+m ,"['hashish', 'heroin']"
+m ,['stimulant']
+m ,"['marijuana', 'ecstasy', 'prescription']"
+m ,"['cocaine', 'heroin']"
+m ,"['uncategorizable_listing', 'ecstasy', 'stimulant', 'methamphetamine']"
+m ,['cocaine']
+m ,"['cocaine', 'ecstasy']"
+m ,['dmt']
+m ,['cocaine']
+m ,['cocaine']
+m ,"['marijuana', 'ecstasy', 'stimulant']"
+m ,"['benzodiazepines', 'cocaine', 'marijuana']"
+m ,['']
+m ,"['benzodiazepines', 'ecstasy']"
+m0,"['cocaine', 'ecstasy', 'hashish', 'not_drugs']"
+m0,['not_drugs']
+m0,['marijuana']
+m0,"['', 'marijuana', 'ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'benzodiazepines']"
+m0,['cocaine']
+m0,['heroin']
+m0,"['lsd', 'hashish']"
+m0,['ecstasy']
+m0,['']
+m1,['lsd']
+m1,"['', 'cocaine', 'marijuana']"
+m1,['psilocybin']
+m1,['not_drugs']
+m1,['marijuana']
+m1,"['methamphetamine', 'cocaine']"
+m1,"['marijuana', 'ecstasy', 'benzodiazepines', 'not_drugs', 'stimulant']"
+m2,['cocaine']
+m2,['not_drugs']
+m2,"['', 'marijuana', 'psilocybin', 'oxycodone', 'benzodiazepines']"
+m2,['']
+m3,"['marijuana', 'ecstasy', 'hashish', 'ketamine', 'not_drugs']"
+m3,"['', 'marijuana', 'not_drugs', 'ketamine']"
+m3,['cocaine']
+m3,['not_drugs']
+m4,['ecstasy']
+m4,"['methamphetamine', 'cocaine', 'ecstasy']"
+m4,"['', 'marijuana']"
+m4,"['', 'marijuana', 'dmt', 'cocaine', 'not_drugs']"
+m4,['not_drugs']
+m5,['hashish']
+m5,['not_drugs']
+m5,['benzodiazepines']
+m5,"['cocaine', 'marijuana', 'not_drugs']"
+m5,"['', 'marijuana']"
+m5,['benzodiazepines']
+m5,['methamphetamine']
+m6,['stimulant']
+m6,['not_drugs']
+m6,['not_drugs']
+m6,['not_drugs']
+m6,"['', 'cocaine', 'not_drugs']"
+m6,['cocaine']
+m7,"['lsd', 'not_drugs', 'heroin']"
+m7,['']
+m7,"['', 'psychedelic', 'psilocybin', 'cocaine', 'methamphetamine', 'opioid_treatment']"
+m7,['ecstasy']
+m8,"['marijuana', 'ecstasy', 'hashish', 'not_drugs', 'heroin']"
+m8,['not_drugs']
+m8,['not_drugs']
+m8,['not_drugs']
+m9,['not_drugs']
+m9,"['marijuana', 'hashish', 'psychedelic', 'lsd', 'not_drugs']"
+m9,['not_drugs']
+m9,['oxycodone']
+m9,"['opioid', 'ecstasy', 'cocaine', 'methamphetamine', 'benzodiazepines', 'heroin']"
+mF,"['inhalants', 'psychedelic']"
+ma,['not_drugs']
+ma,"['marijuana', 'hashish', 'cocaine', 'lsd', 'not_drugs', 'stimulant']"
+ma,['not_drugs']
+ma,['dmt']
+ma,['marijuana']
+ma,"['', 'marijuana', 'ecstasy', 'ketamine', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs', 'stimulant']"
+mb,['']
+mb,['cocaine']
+md,['ecstasy']
+md,['ketamine']
+md,"['psilocybin', '', 'marijuana', 'hashish']"
+md,"['', 'ecstasy', 'psychedelic', 'lsd', 'not_drugs']"
+me,['stimulant']
+me,"['marijuana', 'cocaine', 'oxycodone', 'methamphetamine', 'not_drugs']"
+me,['benzodiazepines']
+me,['cocaine']
+me,['not_drugs']
+me,['not_drugs']
+me,['ecstasy']
+me,['']
+me,['cocaine']
+mf,['cocaine']
+mf,['not_drugs']
+mg,['not_drugs']
+mg,['not_drugs']
+mg,['']
+mg,['ketamine']
+mg,['marijuana']
+mh,['stimulant']
+mh,['not_drugs']
+mh,['oxycodone']
+mi,['benzodiazepines']
+mi,"['', 'cocaine', 'not_drugs']"
+mk,"['lsd', 'not_drugs']"
+mk,"['marijuana', 'ecstasy']"
+mk,['ecstasy']
+mk,"['opioid', 'dissociative']"
+mk,"['ecstasy', 'stimulant']"
+ml,"['lsd', 'ecstasy']"
+ml,['']
+ml,"['cocaine', 'hashish', 'not_drugs']"
+mm,"['cocaine', 'marijuana', 'erectile_dysfunction', 'hashish']"
+mm,['not_drugs']
+mm,"['', 'not_drugs']"
+mm,"['methamphetamine', 'oxycodone']"
+mm,"['methamphetamine', 'marijuana']"
+mn,['not_drugs']
+mn,"['', 'marijuana', 'ecstasy', 'lsd', 'not_drugs', 'heroin']"
+mn,['ketamine']
+mn,['not_drugs']
+mn,['not_drugs']
+mn,['oxycodone']
+mn,"['lsd', 'marijuana', 'ecstasy', 'hashish']"
+mn,"['cocaine', 'ecstasy']"
+mn,['ecstasy']
+mn,['benzodiazepines']
+mo,['benzodiazepines']
+mo,"['opioid', 'not_drugs']"
+mo,"['', 'marijuana', 'not_drugs']"
+mo,"['marijuana', 'ecstasy', 'cocaine', 'lsd', 'methamphetamine', 'benzodiazepines']"
+mp,['not_drugs']
+mr,"['methamphetamine', 'ecstasy']"
+mr,['']
+mr,['not_drugs']
+mr,['oxycodone']
+mr,['opioid']
+mr,['ecstasy']
+mr,['marijuana']
+mr,"['cocaine', 'not_drugs']"
+ms,"['marijuana', 'ketamine', 'psilocybin', 'cocaine', 'oxycodone', 'stimulant']"
+ms,['benzodiazepines']
+ms,['ecstasy']
+ms,['cocaine']
+ms,"['opioid', 'marijuana']"
+ms,['']
+ms,"['', 'marijuana', 'not_drugs']"
+ms,"['marijuana', 'opioid', 'hashish', 'methamphetamine', 'stimulant', 'heroin']"
+ms,['']
+ms,['cocaine']
+mt,['cocaine']
+mt,['benzodiazepines']
+mt,['benzodiazepines']
+mt,['ketamine']
+mt,"['', 'marijuana', 'hashish', 'not_drugs']"
+mt,"['marijuana', 'psychedelic']"
+mt,['stimulant']
+mt,['marijuana']
+mu,['marijuana']
+mu,['benzodiazepines']
+mu,['']
+mw,"['', 'cocaine', 'not_drugs']"
+mw,['stimulant']
+mx,"['psilocybin', 'ecstasy']"
+mx,['marijuana']
+mx,"['methamphetamine', 'marijuana', 'ecstasy']"
+my,['oxycodone']
+my,['']
+my,"['psilocybin', 'marijuana', 'ecstasy']"
+my,['not_drugs']
+my,"['', 'dmt', 'psilocybin', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs', 'stimulant', 'heroin']"
+my,['heroin']
+my,['']
+my,['']
+my,['marijuana']
+my,['marijuana']
+mz,"['hashish', 'stimulant']"
+mz,['not_drugs']
+mz,"['methamphetamine', 'marijuana']"
+mz,['not_drugs']
+n ,['marijuana']
+n ,"['methamphetamine', 'cocaine', 'hashish']"
+n ,"['methamphetamine', 'cocaine', 'benzodiazepines', 'heroin']"
+n ,['ecstasy']
+n ,['opioid_treatment']
+n ,['ecstasy']
+n ,"['marijuana', 'benzodiazepines']"
+n ,"['marijuana', 'ketamine']"
+n ,"['ecstasy', 'hashish', 'cocaine', 'methamphetamine', 'heroin']"
+n ,['marijuana']
+n0,"['', 'marijuana', 'opioid']"
+n0,['']
+n0,"['marijuana', 'not_drugs']"
+n0,['stimulant']
+n1,"['lsd', 'dmt', 'psychedelic', 'not_drugs']"
+n1,"['lsd', 'methamphetamine', 'cocaine', 'marijuana']"
+n2,"['methamphetamine', 'marijuana', 'oxycodone', 'not_drugs']"
+n2,['marijuana']
+n3,"['marijuana', 'dmt', 'not_drugs']"
+n3,"['opioid', 'marijuana']"
+n4,"['lsd', 'marijuana', 'oxycodone']"
+n4,['not_drugs']
+n4,['not_drugs']
+n5,"['marijuana', 'dmt']"
+n5,['lsd']
+n5,"['methamphetamine', 'ecstasy', 'hashish', 'not_drugs']"
+n6,"['', 'benzodiazepines', 'marijuana', 'oxycodone']"
+n6,['not_drugs']
+n7,"['marijuana', 'not_drugs', 'ketamine']"
+n7,"['', 'marijuana']"
+n7,['hashish']
+n8,['not_drugs']
+n9,['cocaine']
+n9,"['', 'not_drugs']"
+n9,['ecstasy']
+n9,['cocaine']
+n9,['ecstasy']
+nL,['benzodiazepines']
+na,['benzodiazepines']
+na,['psilocybin']
+na,['opioid']
+nb,['ecstasy']
+nc,['dissociative']
+nc,['not_drugs']
+nd,['marijuana']
+nd,['not_drugs']
+nd,"['marijuana', 'opioid', 'hashish', 'stimulant']"
+nd,['marijuana']
+ne,['not_drugs']
+ne,['']
+ne,"['lsd', '', 'marijuana', 'ecstasy']"
+ne,['']
+ne,"['', 'ecstasy', 'not_drugs', 'heroin']"
+ne,"['ecstasy', 'stimulant']"
+ng,"['lsd', 'psychedelic']"
+ni,['cocaine']
+ni,['erectile_dysfunction']
+ni,['not_drugs']
+nj,['methamphetamine']
+nk,['heroin']
+nm,"['marijuana', 'erectile_dysfunction', 'ecstasy']"
+nm,"['', 'ecstasy', 'dmt', 'psilocybin', 'lsd']"
+nn,"['methamphetamine', 'marijuana']"
+nn,['ecstasy']
+no,"['fentanyl', 'methamphetamine', 'cocaine']"
+no,['']
+no,"['', 'cocaine', 'not_drugs']"
+np,"['marijuana', 'dmt']"
+nr,"['marijuana', 'not_drugs']"
+nr,['not_drugs']
+nr,"['', 'marijuana', 'hashish']"
+nr,"['inhalants', 'benzodiazepines', 'stimulant']"
+ns,['']
+ns,['not_drugs']
+ns,['not_drugs']
+ns,"['', 'marijuana', 'ecstasy', 'methamphetamine']"
+nt,"['', 'marijuana', 'ecstasy', 'cocaine', 'not_drugs']"
+nt,['psychedelic']
+nu,['cocaine']
+nu,['marijuana']
+nv,['methamphetamine']
+nw,['cocaine']
+nx,['not_drugs']
+ny,['benzodiazepines']
+ny,"['', 'not_drugs']"
+ny,"['marijuana', 'not_drugs']"
+nz,['not_drugs']
+o ,['fentanyl']
+o ,"['cocaine', 'prescription']"
+o ,"['methamphetamine', 'ecstasy', 'stimulant']"
+o ,['marijuana']
+o ,"['marijuana', 'ecstasy']"
+o0,['not_drugs']
+o0,"['', 'marijuana']"
+o0,['cocaine']
+o0,['']
+o1,"['ecstasy', 'psychedelic']"
+o2,"['benzodiazepines', 'marijuana']"
+o3,['not_drugs']
+o4,['not_drugs']
+o6,"['benzodiazepines', 'oxycodone']"
+o6,['psilocybin']
+o6,['oxycodone']
+o7,['marijuana']
+o7,"['marijuana', 'hashish']"
+o7,"['lsd', 'psilocybin', 'not_drugs']"
+o7,['ecstasy']
+o8,"['', 'not_drugs']"
+o8,"['methamphetamine', 'benzodiazepines']"
+o9,"['hashish', 'not_drugs']"
+oa,['oxycodone']
+oa,['marijuana']
+oa,['opioid']
+oa,['cocaine']
+oa,"['lsd', 'marijuana', 'not_drugs']"
+od,['marijuana']
+od,['heroin']
+od,['not_drugs']
+oe,"['', 'not_drugs']"
+oe,"['cocaine', 'marijuana', 'ecstasy']"
+oe,"['cocaine', 'ecstasy', 'not_drugs']"
+oe,['stimulant']
+oe,['marijuana']
+og,['stimulant']
+og,['ecstasy']
+oi,['lsd']
+oi,['not_drugs']
+oi,['marijuana']
+oj,['stimulant']
+ok,['stimulant']
+ok,['benzodiazepines']
+ol,['ecstasy']
+ol,['not_drugs']
+om,['marijuana']
+on,['cocaine']
+on,['benzodiazepines']
+on,['cocaine']
+on,['oxycodone']
+on,['marijuana']
+on,"['marijuana', 'hashish', 'not_drugs']"
+oo,['not_drugs']
+oo,['cocaine']
+oo,['not_drugs']
+oq,['benzodiazepines']
+oq,['ecstasy']
+or,['steroids_and_hormones']
+os,['']
+os,['lsd']
+ot,"['marijuana', 'not_drugs']"
+ot,"['', 'marijuana']"
+ot,"['oxycodone', 'stimulant']"
+ox,"['cocaine', 'ecstasy', 'ketamine']"
+ox,['stimulant']
+oy,"['marijuana', 'ecstasy']"
+p ,"['', 'marijuana', 'opioid', 'ketamine', 'cocaine', 'heroin']"
+p ,"['', 'methamphetamine', 'ecstasy']"
+p ,"['opioid_treatment', 'hashish', 'methamphetamine']"
+p ,"['cocaine', 'ecstasy']"
+p ,"['methamphetamine', 'cocaine', 'erectile_dysfunction', 'heroin']"
+p ,['ketamine']
+p ,['marijuana']
+p ,"['steroids_and_hormones', 'marijuana']"
+p ,['']
+p ,['']
+p ,"['methamphetamine', 'benzodiazepines', 'ecstasy']"
+p ,['marijuana']
+p ,['marijuana']
+p ,"['opioid', 'benzodiazepines', 'ecstasy']"
+p0,['opioid_treatment']
+p0,['not_drugs']
+p0,"['cocaine', 'marijuana', 'hashish']"
+p1,['not_drugs']
+p1,['oxycodone']
+p1,"['psilocybin', '', 'cocaine']"
+p2,['marijuana']
+p2,"['', 'not_drugs']"
+p2,"['marijuana', 'psychedelic', 'not_drugs', 'ecstasy']"
+p2,['marijuana']
+p2,['not_drugs']
+p3,"['marijuana', 'ecstasy', 'not_drugs']"
+p3,"['psilocybin', 'cocaine', 'ecstasy', 'heroin']"
+p3,['psychedelic']
+p3,['cocaine']
+p4,['marijuana']
+p4,['marijuana']
+p4,"['', 'hashish']"
+p4,"['cocaine', 'marijuana', 'ecstasy']"
+p4,['not_drugs']
+p5,['not_drugs']
+p5,['ecstasy']
+p5,['not_drugs']
+p5,"['marijuana', 'hashish', 'ecstasy']"
+p6,"['methamphetamine', 'cocaine', 'opioid_treatment']"
+p6,"['marijuana', 'dmt', 'ecstasy', 'not_drugs']"
+p7,"['benzodiazepines', 'opioid_treatment']"
+p7,"['lsd', 'not_drugs', 'heroin']"
+p7,"['benzodiazepines', 'marijuana']"
+p8,"['marijuana', 'hashish', 'stimulant']"
+p8,['opioid_treatment']
+p8,"['ecstasy', 'ketamine']"
+p8,['']
+p8,"['not_drugs', 'heroin']"
+p9,['']
+p9,['not_drugs']
+p9,"['psilocybin', 'methamphetamine', 'cocaine']"
+p9,"['ecstasy', 'not_drugs']"
+p9,"['', 'oxycodone']"
+pK,['marijuana']
+pa,['benzodiazepines']
+pa,"['ecstasy', 'not_drugs']"
+pa,"['methamphetamine', 'cocaine']"
+pa,['not_drugs']
+pa,['opioid']
+pa,"['', 'not_drugs']"
+pb,['not_drugs']
+pb,['marijuana']
+pc,['cocaine']
+pc,['not_drugs']
+pc,['not_drugs']
+pd,"['cocaine', 'marijuana']"
+pd,['not_drugs']
+pd,['not_drugs']
+pd,['not_drugs']
+pe,['']
+pe,['stimulant']
+pe,['marijuana']
+pe,['ecstasy']
+pe,['marijuana']
+pe,['not_drugs']
+pe,"['', 'marijuana', 'not_drugs']"
+pe,['']
+pe,['not_drugs']
+pe,"['cocaine', 'benzodiazepines', 'oxycodone', 'erectile_dysfunction']"
+pf,['cocaine']
+pf,"['cocaine', 'marijuana', 'not_drugs']"
+pg,"['marijuana', 'not_drugs']"
+pg,['']
+ph,['ecstasy']
+pi,['cocaine']
+pi,"['lsd', 'ecstasy', 'not_drugs', 'psychedelic']"
+pi,"['', 'cocaine']"
+pi,['ecstasy']
+pi,['']
+pi,['benzodiazepines']
+pj,['not_drugs']
+pk,['not_drugs']
+pk,['psilocybin']
+pk,['methamphetamine']
+pk,"['lsd', '', 'psilocybin', 'not_drugs']"
+pk,['not_drugs']
+pl,['not_drugs']
+pl,"['psilocybin', 'fentanyl', 'lsd']"
+pm,"['ecstasy', 'not_drugs']"
+pn,['opioid']
+pn,['not_drugs']
+pn,"['cocaine', 'marijuana']"
+pn,"['', 'marijuana', 'not_drugs', 'stimulant']"
+po,"['cocaine', 'marijuana', 'hashish']"
+po,"['', 'methamphetamine', 'not_drugs', 'heroin']"
+po,['benzodiazepines']
+po,['benzodiazepines']
+pp,['not_drugs']
+pp,"['psilocybin', 'cocaine', 'marijuana']"
+pr,['oxycodone']
+pr,['lsd']
+pr,"['', 'cocaine', 'ecstasy']"
+pr,"['', 'not_drugs']"
+ps,['benzodiazepines']
+ps,"['oxycodone', 'opioid_treatment']"
+ps,['']
+ps,['lsd']
+ps,['oxycodone']
+ps,"['lsd', '', 'marijuana', 'not_drugs']"
+ps,"['marijuana', 'steroids_and_hormones', 'hashish', 'cocaine', 'methamphetamine']"
+ps,['']
+ps,['oxycodone']
+ps,['stimulant']
+ps,['marijuana']
+ps,['oxycodone']
+pt,['opioid_treatment']
+pt,"['methamphetamine', 'cocaine']"
+pt,"['lsd', 'benzodiazepines', 'marijuana', 'not_drugs']"
+pt,['stimulant']
+pu,"['cocaine', 'marijuana']"
+pu,"['', 'not_drugs']"
+pw,"['', 'not_drugs']"
+pw,['oxycodone']
+pw,['cocaine']
+px,['cocaine']
+px,"['marijuana', 'psychedelic']"
+py,['not_drugs']
+py,['not_drugs']
+py,['not_drugs']
+py,['not_drugs']
+pz,"['marijuana', 'stimulant']"
+pz,['not_drugs']
+q1,['not_drugs']
+q1,"['marijuana', 'cocaine', 'ecstasy']"
+q3,['not_drugs']
+q4,['not_drugs']
+q9,['not_drugs']
+q9,"['cocaine', 'marijuana', 'stimulant']"
+qa,['ketamine']
+qc,"['marijuana', 'psychedelic']"
+qd,"['cocaine', 'ecstasy', 'ketamine']"
+qn,['not_drugs']
+qp,['not_drugs']
+qs,['cocaine']
+qt,['marijuana']
+qt,['hashish']
+qx,['steroids_and_hormones']
+qy,['marijuana']
+qz,['not_drugs']
+r ,"['', 'marijuana', 'ecstasy', 'dmt', 'psychedelic', 'ketamine', 'cocaine', 'lsd', 'methamphetamine', 'heroin']"
+r ,"['lsd', 'cocaine', 'ecstasy', 'ketamine']"
+r ,"['ecstasy', 'stimulant']"
+r ,"['cocaine', 'benzodiazepines', 'prescription']"
+r ,['hashish']
+r ,"['prescription', 'ecstasy']"
+r ,"['benzodiazepines', 'ecstasy']"
+r ,['oxycodone']
+r ,['ecstasy']
+r ,['heroin']
+r ,"['cocaine', 'ecstasy']"
+r ,"['cocaine', 'stimulant']"
+r ,['']
+r ,"['lsd', 'benzodiazepines']"
+r ,"['', 'steroids_and_hormones', 'ketamine', 'cocaine', 'methamphetamine']"
+r0,['not_drugs']
+r0,['ecstasy']
+r0,"['cocaine', 'benzodiazepines', 'erectile_dysfunction']"
+r0,['not_drugs']
+r0,['methamphetamine']
+r0,['marijuana']
+r1,"['', 'steroids_and_hormones', 'benzodiazepines', 'stimulant']"
+r1,['not_drugs']
+r1,['oxycodone']
+r1,"['cocaine', 'hashish']"
+r1,"['', 'ecstasy', 'marijuana', 'cocaine', 'lsd', 'benzodiazepines']"
+r2,['not_drugs']
+r2,['benzodiazepines']
+r2,['opioid']
+r2,['not_drugs']
+r2,['cocaine']
+r3,['not_drugs']
+r3,['marijuana']
+r3,"['marijuana', 'stimulant', 'ketamine']"
+r3,"['', 'opioid_treatment']"
+r3,['']
+r4,"['', 'not_drugs']"
+r4,"['ecstasy', 'ketamine']"
+r4,"['marijuana', 'not_drugs']"
+r4,"['psilocybin', '', 'cocaine', 'marijuana']"
+r4,['steroids_and_hormones']
+r5,['oxycodone']
+r5,"['psilocybin', '']"
+r5,"['marijuana', 'not_drugs']"
+r6,['benzodiazepines']
+r6,"['marijuana', 'not_drugs']"
+r6,"['marijuana', 'hashish']"
+r6,['opioid']
+r7,"['fentanyl', 'marijuana']"
+r7,"['marijuana', 'not_drugs']"
+r8,['oxycodone']
+r8,['not_drugs']
+r8,['cocaine']
+r9,"['ecstasy', 'not_drugs']"
+r9,['marijuana']
+r9,['cocaine']
+r9,"['', 'marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'oxycodone', 'lsd', 'methamphetamine']"
+ra,"['ecstasy', 'not_drugs', 'ketamine']"
+ra,"['methamphetamine', 'cocaine', 'ecstasy']"
+rc,['marijuana']
+rd,['not_drugs']
+rd,['ecstasy']
+rd,"['lsd', 'marijuana', 'not_drugs', 'heroin']"
+re,['ketamine']
+re,['benzodiazepines']
+re,['marijuana']
+re,['not_drugs']
+re,"['marijuana', 'dmt', 'ketamine', 'not_drugs', 'stimulant']"
+re,"['marijuana', 'benzodiazepines']"
+re,['not_drugs']
+re,['']
+rf,['not_drugs']
+rf,"['cocaine', 'benzodiazepines']"
+rg,['not_drugs']
+rg,"['cocaine', 'marijuana']"
+rh,['not_drugs']
+rh,['stimulant']
+rh,['marijuana']
+ri,['not_drugs']
+ri,"['', 'methamphetamine', 'cocaine', 'marijuana']"
+rk,"['', 'methamphetamine']"
+rk,['not_drugs']
+rk,['cocaine']
+rk,['stimulant']
+rl,['not_drugs']
+rl,['opioid']
+rl,"['', 'marijuana', 'ecstasy', 'psilocybin', 'not_drugs']"
+rm,['marijuana']
+rm,['']
+rm,['ecstasy']
+rn,['not_drugs']
+rn,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'lsd', 'not_drugs', 'stimulant']"
+rn,['benzodiazepines']
+rn,['ecstasy']
+rn,"['marijuana', 'oxycodone']"
+rn,['oxycodone']
+ro,['heroin']
+ro,['marijuana']
+ro,['oxycodone']
+rp,['oxycodone']
+rp,['ecstasy']
+rq,['ketamine']
+rr,['not_drugs']
+rr,['oxycodone']
+rr,['']
+rr,['cocaine']
+rr,"['cocaine', 'marijuana', 'ecstasy', 'heroin']"
+rr,['not_drugs']
+rr,['psychedelic']
+rs,['ketamine']
+rs,['not_drugs']
+rs,['hashish']
+rs,"['cocaine', 'not_drugs']"
+rs,['ecstasy']
+rs,['marijuana']
+rs,"['', 'marijuana', 'ecstasy', 'ketamine', 'cocaine', 'oxycodone', 'lsd']"
+rs,"['', 'methamphetamine', 'psychedelic']"
+rt,"['', 'not_drugs']"
+rt,"['ecstasy', 'marijuana', 'methamphetamine', 'not_drugs', 'heroin']"
+rt,['marijuana']
+ru,"['steroids_and_hormones', 'ecstasy']"
+rw,"['methamphetamine', 'ketamine']"
+rw,['not_drugs']
+rx,"['ecstasy', 'dissociative']"
+rx,['marijuana']
+rx,['marijuana']
+ry,['hashish']
+ry,"['methamphetamine', 'cocaine']"
+ry,['not_drugs']
+ry,"['lsd', 'psilocybin', 'not_drugs']"
+rz,['stimulant']
+rz,"['lsd', 'not_drugs']"
+s ,"['', 'cocaine', 'ecstasy', 'ketamine']"
+s ,"['', 'marijuana', 'ecstasy', 'ketamine', 'cocaine', 'lsd']"
+s ,"['cocaine', 'ketamine']"
+s ,['ecstasy']
+s ,['ecstasy']
+s ,['ketamine']
+s ,"['marijuana', 'erectile_dysfunction']"
+s ,"['ecstasy', 'ketamine', 'fentanyl', 'cocaine', 'oxycodone', 'methamphetamine']"
+s ,"['marijuana', 'cocaine', 'ecstasy']"
+s ,['methamphetamine']
+s ,"['ecstasy', 'ketamine']"
+s ,"['cocaine', 'ecstasy', 'heroin']"
+s ,"['lsd', 'ecstasy', 'fentanyl']"
+s ,"['marijuana', 'ecstasy', 'oxycodone', 'ketamine']"
+s ,"['lsd', 'erectile_dysfunction']"
+s ,['psychedelic']
+s ,['marijuana']
+s ,['benzodiazepines']
+s ,['not_drugs']
+s ,['ecstasy']
+s ,"['ecstasy', 'ketamine', 'cocaine', 'benzodiazepines', 'stimulant', 'heroin']"
+s ,"['cocaine', 'ketamine']"
+s ,"['ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+s ,"['ecstasy', 'ketamine']"
+s ,"['', 'benzodiazepines', 'prescription']"
+s0,['not_drugs']
+s0,"['benzodiazepines', 'marijuana', 'stimulant']"
+s0,['not_drugs']
+s0,['ecstasy']
+s0,"['marijuana', 'hashish', 'not_drugs']"
+s0,['not_drugs']
+s0,['marijuana']
+s0,['benzodiazepines']
+s1,['not_drugs']
+s1,"['marijuana', 'ecstasy', 'ketamine', 'psilocybin', 'cocaine', 'lsd', 'methamphetamine']"
+s1,['not_drugs']
+s1,"['', 'cocaine', 'marijuana', 'not_drugs']"
+s1,['marijuana']
+s2,['benzodiazepines']
+s2,['hashish']
+s2,['']
+s2,['not_drugs']
+s2,"['lsd', 'benzodiazepines', 'not_drugs', 'ecstasy']"
+s2,"['psilocybin', '', 'marijuana', 'ecstasy']"
+s3,"['', 'marijuana', 'ecstasy', 'not_drugs']"
+s3,['opioid_treatment']
+s3,['benzodiazepines']
+s3,"['methamphetamine', 'cocaine', 'marijuana', 'ketamine']"
+s3,['marijuana']
+s3,['not_drugs']
+s3,['ketamine']
+s3,['cocaine']
+s3,['']
+s3,['not_drugs']
+s3,['ketamine']
+s3,['hashish']
+s3,"['', 'marijuana']"
+s4,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'not_drugs']"
+s4,"['marijuana', 'hashish', 'cocaine', 'oxycodone', 'heroin']"
+s4,['benzodiazepines']
+s4,['marijuana']
+s4,['oxycodone']
+s5,['oxycodone']
+s5,"['', 'benzodiazepines', 'marijuana']"
+s5,['not_drugs']
+s5,"['cocaine', 'not_drugs', 'hashish']"
+s5,['cocaine']
+s6,"['benzodiazepines', 'ecstasy', 'opioid_treatment']"
+s6,['']
+s6,['marijuana']
+s6,['cocaine']
+s6,['not_drugs']
+s6,['cocaine']
+s7,['not_drugs']
+s7,"['opioid', 'benzodiazepines']"
+s7,"['', 'marijuana', 'ecstasy', 'hashish', 'psilocybin', 'lsd', 'not_drugs']"
+s7,['ecstasy']
+s7,"['methamphetamine', 'marijuana', 'not_drugs']"
+s8,"['', 'opioid_treatment']"
+s8,['not_drugs']
+s8,"['lsd', 'heroin']"
+s8,['marijuana']
+s8,['marijuana']
+s8,"['', 'erectile_dysfunction']"
+s8,['not_drugs']
+s8,['not_drugs']
+s9,"['', 'methamphetamine', 'marijuana']"
+s9,"['marijuana', 'hashish', 'psilocybin', 'benzodiazepines', 'not_drugs']"
+s9,['methamphetamine']
+sL,['marijuana']
+sP,['not_drugs']
+sX,['marijuana']
+sa,['lsd']
+sa,['marijuana']
+sa,['hashish']
+sa,"['cocaine', 'hashish', 'stimulant']"
+sa,['not_drugs']
+sa,"['', 'marijuana', 'dmt', 'not_drugs']"
+sa,['not_drugs']
+sb,['marijuana']
+sc,['not_drugs']
+sc,['marijuana']
+sc,['not_drugs']
+sd,['marijuana']
+sd,['not_drugs']
+sd,"['', 'marijuana', 'ecstasy', 'psilocybin', 'oxycodone', 'lsd', 'erectile_dysfunction']"
+sd,"['', 'not_drugs']"
+se,['psychedelic']
+se,['marijuana']
+se,['oxycodone']
+se,['']
+se,['benzodiazepines']
+se,['not_drugs']
+se,['not_drugs']
+se,"['stimulant', 'methamphetamine', 'marijuana', 'psychedelic']"
+se,['marijuana']
+se,['benzodiazepines']
+se,"['', 'dmt', 'psychedelic', 'ketamine', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs']"
+se,['cocaine']
+se,['ecstasy']
+sf,['not_drugs']
+sf,['']
+sg,['stimulant']
+sg,"['marijuana', 'stimulant']"
+sg,['marijuana']
+sg,"['', 'marijuana', 'ecstasy', 'psilocybin', 'lsd']"
+sg,"['', 'marijuana', 'ecstasy', 'psychedelic', 'lsd', 'benzodiazepines']"
+sh,['ecstasy']
+sh,['not_drugs']
+sh,['not_drugs']
+sh,['']
+si,['not_drugs']
+si,"['cocaine', 'marijuana', 'hashish', 'ecstasy']"
+si,['marijuana']
+si,['cocaine']
+si,['methamphetamine']
+si,['not_drugs']
+sk,['not_drugs']
+sk,"['lsd', 'ecstasy']"
+sk,"['psilocybin', 'marijuana', 'hashish', 'ecstasy']"
+sk,['marijuana']
+sl,['ecstasy']
+sl,"['marijuana', 'ecstasy', 'erectile_dysfunction']"
+sl,"['', 'ecstasy', 'not_drugs']"
+sl,"['marijuana', 'ecstasy', 'methamphetamine', 'benzodiazepines', 'stimulant']"
+sl,['lsd']
+sl,['oxycodone']
+sl,['lsd']
+sm,"['marijuana', 'ecstasy', 'hashish', 'psychedelic', 'psilocybin', 'cocaine']"
+sm,"['cocaine', 'marijuana']"
+sm,"['marijuana', 'dmt', 'not_drugs']"
+sn,['benzodiazepines']
+sn,['benzodiazepines']
+sn,['ketamine']
+sn,['cocaine']
+sn,"['marijuana', 'ecstasy', 'psychedelic', 'psilocybin', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+sn,"['opioid', 'stimulant']"
+sn,['ecstasy']
+sn,['marijuana']
+sn,"['methamphetamine', 'ecstasy']"
+sn,['not_drugs']
+sn,['not_drugs']
+sn,['cocaine']
+so,['opioid']
+so,['ecstasy']
+so,['benzodiazepines']
+so,"['', 'marijuana', 'ecstasy', 'hashish', 'not_drugs']"
+so,['lsd']
+sp,['inhalants']
+sp,['']
+sp,"['methamphetamine', 'cocaine', 'benzodiazepines']"
+sq,['cocaine']
+sr,['cocaine']
+sr,['not_drugs']
+sr,"['marijuana', 'ecstasy', 'psilocybin', 'cocaine', 'oxycodone', 'methamphetamine']"
+sr,['oxycodone']
+sr,"['', 'not_drugs', 'ketamine']"
+sr,['marijuana']
+sr,['ecstasy']
+sr,['ecstasy']
+ss,['ecstasy']
+ss,"['', 'marijuana', 'ecstasy', 'cocaine', 'methamphetamine', 'opioid_treatment']"
+ss,"['', 'hashish', 'psilocybin', 'lsd', 'not_drugs']"
+ss,['opioid']
+ss,['cocaine']
+ss,['cocaine']
+ss,"['opioid_treatment', 'stimulant']"
+ss,['']
+ss,['marijuana']
+ss,['marijuana']
+ss,['benzodiazepines']
+ss,['opioid']
+st,['cocaine']
+st,"['marijuana', 'ecstasy', 'hashish', 'cocaine', 'methamphetamine', 'benzodiazepines', 'not_drugs']"
+st,['']
+st,['marijuana']
+st,['not_drugs']
+su,['stimulant']
+su,['marijuana']
+su,['opioid_treatment']
+sw,['benzodiazepines']
+sw,"['', 'not_drugs']"
+sw,"['', 'marijuana', 'ecstasy']"
+sw,['oxycodone']
+sx,['methamphetamine']
+sx,"['methamphetamine', 'cocaine', 'marijuana', 'not_drugs']"
+sx,"['marijuana', 'benzodiazepines', 'methamphetamine']"
+sx,['lsd']
+sx,['marijuana']
+sy,"['oxycodone', 'ketamine']"
+sy,"['opioid', 'oxycodone']"
+sy,['']
+sy,['ecstasy']
+sy,['psilocybin']
+sy,"['', 'marijuana', 'hashish', 'psilocybin', 'oxycodone', 'methamphetamine', 'stimulant']"
+sy,['marijuana']
+sy,['ecstasy']
+sy,"['', 'psilocybin', 'cocaine', 'lsd', 'not_drugs']"
+sy,['cocaine']
+sy,['psilocybin']
+sy,['']
+sy,['stimulant']
+sy,['not_drugs']
+sy,['oxycodone']
+sz,['not_drugs']
+sz,"['benzodiazepines', 'marijuana']"
+sz,"['', 'methamphetamine', 'not_drugs']"
+t ,"['cocaine', 'ecstasy']"
+t ,['ketamine']
+t ,"['lsd', 'marijuana', 'cocaine', 'ecstasy']"
+t ,"['cocaine', 'ecstasy', 'stimulant']"
+t ,"['marijuana', 'ecstasy']"
+t ,"['lsd', 'methamphetamine', 'benzodiazepines', 'ecstasy']"
+t ,['ecstasy']
+t ,"['lsd', 'ecstasy']"
+t ,"['cocaine', 'erectile_dysfunction', 'hashish', 'heroin']"
+t ,['ecstasy']
+t ,['ketamine']
+t ,"['ecstasy', 'erectile_dysfunction']"
+t ,['hashish']
+t ,['ecstasy']
+t ,"['cocaine', 'hashish']"
+t ,['ecstasy']
+t0,['marijuana']
+t0,"['', 'marijuana', 'psilocybin', 'cocaine', 'methamphetamine', 'not_drugs']"
+t0,"['', 'cocaine', 'not_drugs']"
+t1,"['', 'marijuana', 'ecstasy', 'cocaine', 'not_drugs']"
+t1,['cocaine']
+t1,"['', 'marijuana', 'ecstasy', 'psilocybin', 'benzodiazepines', 'stimulant']"
+t2,['not_drugs']
+t2,['not_drugs']
+t2,"['', 'marijuana', 'hashish', 'cocaine', 'lsd', 'benzodiazepines', 'erectile_dysfunction']"
+t2,['not_drugs']
+t2,['benzodiazepines']
+t3,"['', 'ecstasy', 'not_drugs']"
+t3,['']
+t3,['stimulant']
+t3,['ecstasy']
+t3,"['benzodiazepines', 'marijuana']"
+t4,"['psilocybin', 'hashish', 'stimulant']"
+t4,['']
+t4,['not_drugs']
+t4,['cocaine']
+t4,['lsd']
+t4,['not_drugs']
+t4,['not_drugs']
+t5,['not_drugs']
+t5,['oxycodone']
+t5,['ecstasy']
+t5,['not_drugs']
+t5,['ketamine']
+t5,['hashish']
+t5,['benzodiazepines']
+t5,"['opioid', 'ecstasy', 'marijuana', 'oxycodone', 'methamphetamine', 'erectile_dysfunction']"
+t6,"['marijuana', 'hashish']"
+t6,['not_drugs']
+t7,['cocaine']
+t7,['opioid_treatment']
+t7,"['cocaine', 'marijuana']"
+t7,['not_drugs']
+t7,['not_drugs']
+t7,['not_drugs']
+t8,"['benzodiazepines', 'cocaine', 'marijuana']"
+t8,"['', 'not_drugs']"
+t8,['erectile_dysfunction']
+t8,['marijuana']
+t9,"['cocaine', 'marijuana', 'hashish']"
+t9,"['', 'ecstasy', 'dmt', 'psilocybin', 'cocaine', 'not_drugs']"
+t9,['ecstasy']
+t9,"['cocaine', 'ecstasy']"
+t9,['ecstasy']
+t9,['']
+t_,['not_drugs']
+ta,['benzodiazepines']
+ta,['opioid']
+ta,"['marijuana', 'ecstasy', 'hashish', 'inhalants', 'cocaine', 'benzodiazepines']"
+ta,['hashish']
+ta,['benzodiazepines']
+ta,"['marijuana', 'not_drugs']"
+ta,['']
+tb,['not_drugs']
+tb,['stimulant']
+tc,"['lsd', 'cocaine', 'ecstasy']"
+tc,['oxycodone']
+tc,['not_drugs']
+tc,['oxycodone']
+td,"['marijuana', 'ketamine']"
+td,['erectile_dysfunction']
+td,['']
+td,"['psilocybin', '', 'marijuana', 'ketamine']"
+td,['']
+te,['opioid']
+te,['opioid']
+te,['not_drugs']
+te,['cocaine']
+te,['ecstasy']
+te,['ketamine']
+te,"['marijuana', 'ecstasy', 'hashish', 'ketamine', 'lsd', 'not_drugs']"
+te,"['marijuana', 'ecstasy', 'hashish', 'ketamine', 'psilocybin', 'fentanyl', 'cocaine', 'lsd', 'methamphetamine', 'not_drugs']"
+te,['heroin']
+te,['hashish']
+te,['not_drugs']
+tf,"['ecstasy', 'not_drugs']"
+tg,"['ecstasy', 'not_drugs']"
+tg,['hashish']
+tg,['not_drugs']
+th,['marijuana']
+th,['not_drugs']
+th,['cocaine']
+th,"['cocaine', 'stimulant']"
+ti,"['opioid', 'not_drugs']"
+ti,['']
+tj,['oxycodone']
+tk,"['marijuana', 'ecstasy', 'fentanyl', 'oxycodone', 'methamphetamine', 'heroin']"
+tk,['']
+tk,['']
+tk,"['ecstasy', 'hashish', 'not_drugs']"
+tl,['ketamine']
+tl,['lsd']
+tl,['']
+tl,"['ecstasy', 'not_drugs', 'hashish']"
+tl,['']
+tm,['marijuana']
+tn,['opioid']
+tn,"['', 'methamphetamine', 'marijuana', 'stimulant']"
+tn,['']
+tn,['ketamine']
+tn,['marijuana']
+tn,['not_drugs']
+tn,['not_drugs']
+tn,['']
+tn,"['', 'methamphetamine', 'marijuana', 'not_drugs']"
+tn,['marijuana']
+tn,['cocaine']
+tn,['marijuana']
+to,['not_drugs']
+to,"['oxycodone', 'hashish']"
+to,['not_drugs']
+to,['cocaine']
+to,"['cocaine', 'not_drugs']"
+to,['benzodiazepines']
+tp,"['', 'marijuana']"
+tp,['']
+tp,"['cocaine', 'marijuana']"
+tr,"['', 'marijuana', 'ecstasy', 'hashish', 'psilocybin', 'cocaine']"
+tr,"['', 'marijuana', 'hashish', 'not_drugs']"
+tr,['oxycodone']
+ts,"['ecstasy', 'inhalants', 'psilocybin', 'lsd', 'not_drugs']"
+ts,"['', 'oxycodone']"
+ts,['']
+ts,"['', 'oxycodone']"
+ts,['oxycodone']
+ts,['opioid']
+ts,['stimulant']
+ts,['marijuana']
+ts,['opioid']
+ts,"['marijuana', 'cocaine', 'methamphetamine', 'not_drugs', 'heroin']"
+tt,"['', 'not_drugs']"
+tt,['stimulant']
+tt,"['', 'marijuana', 'lsd']"
+tt,['not_drugs']
+tt,['ecstasy']
+tt,['cocaine']
+tt,['ketamine']
+tw,['not_drugs']
+tw,"['', 'not_drugs']"
+tx,['']
+tx,['']
+tx,"['marijuana', 'fentanyl', 'cocaine', 'methamphetamine', 'heroin']"
+ty,['oxycodone']
+ty,"['cocaine', 'marijuana', 'hashish', 'ecstasy']"
+ty,['oxycodone']
+ty,['oxycodone']
+ty,['benzodiazepines']
+ty,"['marijuana', 'opioid_treatment']"
+ty,['cocaine']
+ty,['cocaine']
+ty,"['marijuana', 'ecstasy', 'not_drugs']"
+ty,['ecstasy']
+ty,['ketamine']
+tz,"['benzodiazepines', 'marijuana', 'not_drugs', 'stimulant']"
+tz,['not_drugs']
+tz,"['', 'marijuana']"
+u ,"['benzodiazepines', 'heroin']"
+u ,['psychedelic']
+u0,"['marijuana', 'not_drugs']"
+u1,['not_drugs']
+u2,"['marijuana', 'not_drugs']"
+u3,"['oxycodone', 'not_drugs', 'stimulant']"
+u3,['not_drugs']
+u4,"['cocaine', 'marijuana']"
+u4,['']
+u4,['not_drugs']
+u5,['heroin']
+u5,"['ecstasy', 'marijuana', 'ketamine', 'cocaine', 'methamphetamine', 'benzodiazepines']"
+u6,"['marijuana', 'ecstasy']"
+u6,['not_drugs']
+u7,"['marijuana', 'hashish']"
+u7,['not_drugs']
+u7,"['dmt', 'not_drugs']"
+u7,"['', 'opioid']"
+u8,['not_drugs']
+u9,"['marijuana', 'not_drugs']"
+u9,['not_drugs']
+uW,['stimulant']
+ua,['not_drugs']
+ub,['lsd']
+ub,['cocaine']
+ud,"['marijuana', 'not_drugs']"
+ud,['not_drugs']
+ud,"['psilocybin', 'methamphetamine', 'marijuana']"
+ue,['not_drugs']
+uh,"['', 'marijuana', 'ecstasy']"
+ui,"['marijuana', 'not_drugs']"
+uk,['not_drugs']
+ul,['marijuana']
+um,['not_drugs']
+um,['not_drugs']
+un,"['cocaine', 'ketamine']"
+uo,['cocaine']
+up,['psychedelic']
+ur,"['methamphetamine', 'ecstasy', 'heroin']"
+ur,['not_drugs']
+ur,['marijuana']
+ur,['marijuana']
+us,['ecstasy']
+uy,['stimulant']
+uy,['cocaine']
+uy,"['', 'not_drugs']"
+v ,['ketamine']
+v ,"['', 'ecstasy', 'psychedelic', 'ketamine', 'cocaine', 'lsd', 'benzodiazepines', 'stimulant']"
+v ,['ecstasy']
+v ,['']
+v ,"['ecstasy', 'heroin']"
+v ,['marijuana']
+v ,['cocaine']
+v ,"['ecstasy', 'erectile_dysfunction']"
+v0,['opioid']
+v0,"['marijuana', 'ketamine', 'cocaine', 'lsd', 'not_drugs']"
+v0,['lsd']
+v1,"['', 'ecstasy', 'not_drugs']"
+v2,['benzodiazepines']
+v2,['lsd']
+v2,"['', 'cocaine', 'not_drugs', 'ketamine']"
+v3,['cocaine']
+v3,['cocaine']
+v4,['stimulant']
+v6,['not_drugs']
+v8,['marijuana']
+v9,['marijuana']
+vA,['oxycodone']
+va,['stimulant']
+va,['not_drugs']
+va,['not_drugs']
+va,['cocaine']
+vc,['benzodiazepines']
+vd,['marijuana']
+ve,['marijuana']
+ve,"['not_drugs', 'heroin']"
+ve,['psilocybin']
+ve,['marijuana']
+ve,['ketamine']
+vf,['not_drugs']
+vg,"['', 'cocaine']"
+vh,['ecstasy']
+vi,['not_drugs']
+vj,"['', 'opioid']"
+vl,['marijuana']
+vl,['ketamine']
+vn,['cocaine']
+vn,"['not_drugs', 'stimulant']"
+vo,['marijuana']
+vr,"['benzodiazepines', 'marijuana']"
+vr,['not_drugs']
+vs,['not_drugs']
+vs,"['', 'benzodiazepines', 'cocaine', 'marijuana']"
+vt,['not_drugs']
+vt,['marijuana']
+vt,['not_drugs']
+vx,['']
+vy,['']
+vy,['not_drugs']
+vy,['cocaine']
+vz,"['methamphetamine', 'marijuana', 'stimulant']"
+w ,"['opioid', 'ecstasy', 'benzodiazepines']"
+w ,"['lsd', 'cocaine', 'erectile_dysfunction']"
+w ,['hashish']
+w ,['lsd']
+w ,['ecstasy']
+w ,"['marijuana', 'opioid_treatment']"
+w ,['marijuana']
+w0,['ecstasy']
+w0,['not_drugs']
+w0,"['ecstasy', 'not_drugs']"
+w1,"['not_drugs', 'marijuana', 'dmt', 'ketamine']"
+w1,['cocaine']
+w1,['']
+w1,"['', 'marijuana', 'dmt']"
+w2,"['', 'cocaine', 'marijuana']"
+w2,"['', 'dmt', 'not_drugs']"
+w3,['oxycodone']
+w3,['not_drugs']
+w3,"['lsd', 'not_drugs']"
+w4,['']
+w4,['']
+w5,['not_drugs']
+w5,"['cocaine', 'marijuana']"
+w5,['']
+w6,"['', 'not_drugs']"
+w6,"['cocaine', 'marijuana', 'ecstasy']"
+w7,['not_drugs']
+w7,['benzodiazepines']
+w8,['psychedelic']
+w8,['marijuana']
+w9,"['', 'marijuana', 'ecstasy']"
+w9,['stimulant']
+w9,['not_drugs']
+wR,['marijuana']
+wa,['marijuana']
+wc,['not_drugs']
+wc,['heroin']
+wc,"['marijuana', 'oxycodone']"
+wd,['']
+wd,"['opioid', 'benzodiazepines', 'marijuana', 'not_drugs']"
+wd,['']
+we,['']
+we,"['', 'hashish', 'not_drugs']"
+we,"['psilocybin', 'cocaine', 'marijuana', 'hashish']"
+we,['cocaine']
+wf,['not_drugs']
+wg,"['marijuana', 'oxycodone']"
+wh,['inhalants']
+wh,['not_drugs']
+wh,['heroin']
+wk,['marijuana']
+wk,['not_drugs']
+wk,['not_drugs']
+wl,"['', 'marijuana', 'hashish']"
+wl,['marijuana']
+wl,['oxycodone']
+wn,"['marijuana', 'not_drugs']"
+wn,"['', 'opioid']"
+wn,['marijuana']
+wo,['not_drugs']
+wp,"['methamphetamine', 'marijuana', 'ketamine']"
+wr,['not_drugs']
+wr,['not_drugs']
+wr,"['methamphetamine', 'marijuana', 'heroin']"
+wr,['not_drugs']
+wr,"['fentanyl', 'stimulant']"
+wr,['cocaine']
+ws,"['', 'marijuana', 'ecstasy', 'ketamine', 'psilocybin', 'not_drugs', 'stimulant']"
+ws,['ecstasy']
+ws,"['benzodiazepines', 'marijuana']"
+ws,['ecstasy']
+ws,"['marijuana', 'ecstasy', 'heroin']"
+ws,"['methamphetamine', 'cocaine', 'erectile_dysfunction', 'stimulant']"
+wt,"['psilocybin', 'benzodiazepines', 'cocaine', 'ecstasy']"
+wt,"['', 'benzodiazepines', 'ecstasy', 'not_drugs']"
+wu,['oxycodone']
+wu,['not_drugs']
+ww,['ketamine']
+ww,['lsd']
+wx,"['', 'not_drugs']"
+wx,['ecstasy']
+wy,"['', 'stimulant']"
+wy,['ecstasy']
+wy,"['cocaine', 'ecstasy', 'psychedelic']"
+wz,"['lsd', 'marijuana']"
+wz,['hashish']
+wz,['not_drugs']
+x0,['marijuana']
+x0,['']
+x1,"['dmt', 'not_drugs']"
+x1,"['cocaine', 'marijuana', 'hashish']"
+x2,"['lsd', 'opioid', 'oxycodone']"
+x7,['oxycodone']
+x7,['lsd']
+xc,"['lsd', 'marijuana']"
+xd,['benzodiazepines']
+xe,"['lsd', 'marijuana']"
+xe,['benzodiazepines']
+xg,['marijuana']
+xh,"['', 'not_drugs']"
+xn,['not_drugs']
+xn,"['', 'marijuana', 'lsd']"
+xo,['psilocybin']
+xp,['oxycodone']
+xr,['marijuana']
+xr,"['ecstasy', 'dmt', 'cocaine', 'lsd', 'methamphetamine']"
+xs,['stimulant']
+xt,['not_drugs']
+xt,['hashish']
+xv,['lsd']
+xw,['ecstasy']
+xw,['marijuana']
+xx,"['marijuana', 'not_drugs']"
+xx,['not_drugs']
+xx,"['', 'methamphetamine', 'cocaine', 'marijuana']"
+xy,"['lsd', 'not_drugs']"
+xz,['not_drugs']
+y ,['ketamine']
+y ,"['cocaine', 'ecstasy']"
+y0,"['methamphetamine', 'ecstasy']"
+y0,['benzodiazepines']
+y0,['not_drugs']
+y1,['opioid']
+y2,"['marijuana', 'ecstasy', 'psychedelic', 'cocaine', 'lsd', 'benzodiazepines', 'stimulant']"
+y2,['lsd']
+y3,['hashish']
+y4,"['', 'not_drugs']"
+y4,['not_drugs']
+y7,['not_drugs']
+y8,['ecstasy']
+y8,"['ecstasy', 'not_drugs']"
+y9,"['cocaine', 'not_drugs']"
+yD,['ketamine']
+ya,['lsd']
+ya,['psilocybin']
+yd,['marijuana']
+yd,['oxycodone']
+ye,"['cocaine', 'benzodiazepines', 'stimulant']"
+ye,"['ecstasy', 'stimulant']"
+ye,"['lsd', 'hashish']"
+ye,['ecstasy']
+yf,"['marijuana', 'hashish']"
+yi,['psilocybin']
+yl,['ketamine']
+yn,"['marijuana', 'hashish', 'ketamine', 'cocaine', 'not_drugs']"
+yn,['not_drugs']
+yo,"['hashish', 'not_drugs']"
+yo,['stimulant']
+yr,"['lsd', 'stimulant']"
+yr,['not_drugs']
+yt,['not_drugs']
+yu,"['lsd', 'ketamine']"
+yx,"['opioid', 'ecstasy']"
+yy,['cocaine']
+yy,"['lsd', 'ecstasy', 'erectile_dysfunction']"
+yy,['psilocybin']
+yy,['methamphetamine']
+z ,"['benzodiazepines', 'oxycodone', 'erectile_dysfunction']"
+z ,['erectile_dysfunction']
+z ,['methamphetamine']
+z ,"['lsd', 'erectile_dysfunction']"
+z0,['not_drugs']
+z0,"['methamphetamine', 'marijuana', 'opioid_treatment']"
+z0,['']
+z1,['not_drugs']
+z1,"['benzodiazepines', 'marijuana']"
+z2,['stimulant']
+z3,['not_drugs']
+z3,['stimulant']
+z4,['oxycodone']
+z4,['']
+z4,['']
+z5,['not_drugs']
+z5,['stimulant']
+z6,['cocaine']
+z7,['']
+z8,['cocaine']
+z8,"['lsd', 'psilocybin', 'ketamine']"
+z9,['psychedelic']
+z9,['not_drugs']
+za,['marijuana']
+za,['not_drugs']
+za,['ketamine']
+za,"['marijuana', 'ecstasy']"
+zb,['benzodiazepines']
+zc,['not_drugs']
+zc,['hashish']
+zd,['ketamine']
+zd,"['ecstasy', 'hashish']"
+zd,['psilocybin']
+zd,['']
+ze,['hashish']
+ze,"['cocaine', 'ecstasy']"
+ze,['not_drugs']
+zf,['lsd']
+zg,['not_drugs']
+zg,"['methamphetamine', 'cocaine', 'hashish']"
+zi,['methamphetamine']
+zi,['marijuana']
+zi,['marijuana']
+zk,['']
+zl,['not_drugs']
+zm,['heroin']
+zn,"['marijuana', 'hashish']"
+zn,['oxycodone']
+zn,"['ecstasy', 'not_drugs']"
+zo,['methamphetamine']
+zo,['benzodiazepines']
+zs,['heroin']
+zs,['marijuana']
+zs,['not_drugs']
+zu,['hashish']
+zv,['not_drugs']
+zx,['ketamine']
+zy,['cocaine']
