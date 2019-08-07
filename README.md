@@ -4,10 +4,22 @@ REU project, summer 2019
 
 ### First code to run:
 1. Data_Cleaning.ipynb
+   - selects Dream market
+   - applies timestamps
+   - tokenizes titles, labels as the drug being sold
+   - removes dates from 1969-1970, 2017, and the future
+   - converts Bitcoin amount to USD
    - saves the dataframe as "drug_data"
 2. Filtering_and_EDA_hmm.ipynb
+   -removes "not_drugs"
+   - gets listings with one category
+   - summary statistics
+   - filters low frequency drugs and vendors
+   - vendor distribution
    - saves as "drug_df"
-
+   - builds HMM test and train set
+   - emission probability table
+   - saves as "start_prob" and "trans_prob"
 ### Needed files:
 1. product_rating_modified.txt
    - the dataset containing all product reviews
