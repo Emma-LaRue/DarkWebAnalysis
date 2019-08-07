@@ -11,7 +11,7 @@ REU project, summer 2019
    - converts Bitcoin amount to USD
    - saves the dataframe as "drug_data"
 2. Filtering_and_EDA_hmm.ipynb
-   -removes "not_drugs"
+   - removes "not_drugs"
    - gets listings with one category
    - summary statistics
    - filters low frequency drugs and vendors
